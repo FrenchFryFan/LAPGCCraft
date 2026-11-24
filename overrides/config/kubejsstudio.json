@@ -3,7 +3,7 @@
   "browserCollapsed": false,
   "pendingCollapsed": false,
   "sideListCollapsed": false,
-  "tab": 0,
+  "tab": 1,
   "propsBlocks": false,
   "filesExplorerCollapsed": false,
   "apiBrowserCollapsed": false,
@@ -46,10 +46,10 @@
   "pinnedFolders": [],
   "favorites": [],
   "recipesSelected": "mekanism:crushing/venus_sandstone_to_venus_sand",
-  "recipesSearch": "mekanism:crushing/venus",
-  "tagsRegistry": "item",
-  "tagsSelected": "forge:sandstone/venus_sandstone",
-  "tagsSearch": "",
+  "recipesSearch": "",
+  "tagsRegistry": "fluid",
+  "tagsSelected": "forge:uranium_235",
+  "tagsSearch": "uranium_235",
   "lootSelected": "",
   "lootSearch": "",
   "propsSelected": "powah:uraninite_raw",
@@ -59,6 +59,7 @@
   "createSearch": "",
   "filesOpen": [],
   "recentPicks": [
+    "item gtceu:nether_quartz_dust",
     "item ad_astra:venus_sandstone",
     "item gtceu:raw_uraninite",
     "item #kubejs:solid_runewood_trapdoor_valid",
@@ -69,8 +70,7 @@
     "item minecraft:slime_ball",
     "item #malum:sapballs",
     "item malum:runic_tainted_rock_tiles",
-    "item #forge:glass/colorless",
-    "item malum:runic_small_tainted_rock_bricks"
+    "item #forge:glass/colorless"
   ],
   "filesActive": -1
 }

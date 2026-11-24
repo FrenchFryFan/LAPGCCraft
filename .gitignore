@@ -15,6 +15,7 @@ usernamecache.json
 realms_persistence.json
 command_history.txt
 *.dat_old
+overrides/config/kubejsstudio/
 
 # loader
 .fabric/

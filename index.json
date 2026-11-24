@@ -1542,7 +1542,7 @@
     },
     {
       "path": "overrides/config/kubejsstudio.json",
-      "sha1": "947602f077cfb9dd396be97db14baea774a843c9"
+      "sha1": "7af121e319977f3c5954c856fc313497b26cf19b"
     },
     {
       "path": "overrides/config/ldlib2-client.toml",
