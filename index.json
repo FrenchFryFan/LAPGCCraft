@@ -21,8 +21,12 @@
       "sha1": "e9327fc5e27c345e14b4f617b989caed15cbd165"
     },
     {
+      "path": "content/mods/almost-fluidified.json",
+      "sha1": "c0c4c5084eb76748faec38902e6e2daa28f9f00b"
+    },
+    {
       "path": "content/mods/almostunified.json",
-      "sha1": "a85b6556b05bd995361f3782ccd092b929744855"
+      "sha1": "6713c996b7827254e2911db6abc997c7ee146d77"
     },
     {
       "path": "content/mods/appleskin.json",

@@ -1,6 +1,6 @@
 # LAPGCcraft
 
-**Minecraft 1.20.1 · Forge 47.4.28**, 94 mods (3 dependencies)
+**Minecraft 1.20.1 · Forge 47.4.28**, 95 mods (3 dependencies)
 
 ## Contents
 
@@ -8,6 +8,7 @@
 - [Ad Astra Extra](https://www.curseforge.com/projects/957097) `1.2.3 (Forge 1.20.1)`
 - [Ad Astra: More Structures](https://modrinth.com/project/ad-astra-more-structures) `1.0.2`
 - [Almost Unified](https://modrinth.com/project/almostunified) `1.20.1-0.11.0+forge`
+- [AlmostFluidified](https://www.curseforge.com/projects/1519455) `almostfluidified-0.1.8.jar`
 - [AppleSkin](https://modrinth.com/project/appleskin) `2.5.1+mc1.20.1`
 - [Applied Energistics 2](https://modrinth.com/project/ae2) `15.4.12`
 - [Applied Mekanistics](https://modrinth.com/project/applied-mekanistics) `1.4.3`

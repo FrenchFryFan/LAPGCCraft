@@ -1,0 +1,22 @@
+{
+  "name": "AlmostFluidified",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1519455",
+      "slug": "almost-fluidified",
+      "versionId": "8565331",
+      "versionNumber": "almostfluidified-0.1.8.jar",
+      "filename": "almostfluidified-0.1.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8565/331/almostfluidified-0.1.8.jar",
+      "sha1": "f1ffc0f549003dea198dca2119c0c847dd9d8262",
+      "fileSize": 87807
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
