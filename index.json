@@ -885,12 +885,16 @@
       "sha1": "b7ff2e8184317e57b8bf64b5a5e1b42d46f3d8a8"
     },
     {
+      "path": "overrides/config/almostunified/fluids.json",
+      "sha1": "5898e7db1b01e99c46e2f821fe7e661904e541da"
+    },
+    {
       "path": "overrides/config/almostunified/startup.json",
       "sha1": "9b304acbcc64a55182bae4cbb8a09b15f4c42fe0"
     },
     {
       "path": "overrides/config/almostunified/unify.json",
-      "sha1": "ef2ab6c3322212c357436f5d3dfcec6ed12cf01b"
+      "sha1": "69adb09baf825087cae85b70878bd343c01cdc53"
     },
     {
       "path": "overrides/config/appleskin-client.toml",
@@ -3413,8 +3417,16 @@
       "sha1": "f9bf53e1db3289b469f19c8c4f2deb3413f3119e"
     },
     {
+      "path": "overrides/kubejs/server_scripts/kubejsstudio/tags/fluid.js",
+      "sha1": "ff96e2da0597ab145e9939b3af85d210aa2df2d6"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/tags/item.js",
-      "sha1": "f09ed15bfc190eb9dd9fd319f7caf35fece9d78b"
+      "sha1": "f6a6374b0ef574cd166ea28cff6bf46e9c1b8c90"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/lapg_hide_fluids.js",
+      "sha1": "7881b7be41083777e58294e9a722dae0496f8cf0"
     },
     {
       "path": "overrides/kubejs/startup_scripts/example.js",
