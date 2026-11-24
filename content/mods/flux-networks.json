@@ -1,0 +1,25 @@
+{
+  "name": "Flux Networks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "248020",
+      "slug": "flux-networks",
+      "versionId": "5234697",
+      "versionNumber": "Flux-Networks-1.20.1-7.2.1",
+      "filename": "FluxNetworks-1.20.1-7.2.1.15.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5234/697/FluxNetworks-1.20.1-7.2.1.15.jar",
+      "sha1": "65cea2d3da2a6d6fd274ef1dad37a516466be22c",
+      "fileSize": 515573
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "1748833"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

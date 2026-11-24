@@ -1,0 +1,24 @@
+{
+  "name": "Searchables",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "858542",
+      "slug": "searchables",
+      "versionId": "5284015",
+      "versionNumber": "Searchables-forge-1.20.1-1.0.3.jar",
+      "filename": "Searchables-forge-1.20.1-1.0.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5284/15/Searchables-forge-1.20.1-1.0.3.jar",
+      "sha1": "ed5a23ec30c90fd06b3f1d8140614028e1fafaee",
+      "fileSize": 77732
+    }
+  },
+  "dependents": [
+    "250398"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

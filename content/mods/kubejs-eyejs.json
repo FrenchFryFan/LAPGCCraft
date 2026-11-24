@@ -1,0 +1,22 @@
+{
+  "name": "EyeJS: KubeJS Addon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1624204",
+      "slug": "kubejs-eyejs",
+      "versionId": "8508438",
+      "versionNumber": "EyeJS-1.20.1-1.0.1.jar",
+      "filename": "eyejs-1.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8508/438/eyejs-1.0.1.jar",
+      "sha1": "62c0f37476712083a0d12e9721ffb93b839c7754",
+      "fileSize": 24862
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

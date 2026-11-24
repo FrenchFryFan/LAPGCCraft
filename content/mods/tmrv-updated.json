@@ -1,0 +1,22 @@
+{
+  "name": "TMRV Updated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1727144",
+      "slug": "tmrv-updated",
+      "versionId": "9600340",
+      "versionNumber": "TooManyRecipeViewers 0.9.4 (Forge 1.20.1)",
+      "filename": "toomanyrecipeviewers-0.9.4-mc.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9600/340/toomanyrecipeviewers-0.9.4-mc.20.1.jar",
+      "sha1": "55ed018488772e208b1f0406ce883a50d8ae5eca",
+      "fileSize": 2468523
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

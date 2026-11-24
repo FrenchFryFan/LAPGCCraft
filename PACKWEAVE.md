@@ -1,0 +1,106 @@
+# LAPGCcraft
+
+**Minecraft 1.20.1 · Forge 47.4.28**, 98 mods (3 dependencies)
+
+## Contents
+
+- [Ad Astra](https://modrinth.com/project/ad-astra) `1.15.21`
+- [Ad Astra Extra](https://www.curseforge.com/projects/957097) `1.2.3 (Forge 1.20.1)`
+- [Ad Astra: More Structures](https://modrinth.com/project/ad-astra-more-structures) `1.0.2`
+- [Almost Unified](https://modrinth.com/project/almostunified) `1.20.1-0.11.0+forge`
+- [AppleSkin](https://modrinth.com/project/appleskin) `2.5.1+mc1.20.1`
+- [Applied Energistics 2](https://modrinth.com/project/ae2) `15.4.12`
+- [Applied Mekanistics](https://modrinth.com/project/applied-mekanistics) `1.4.3`
+- [Architectury API](https://modrinth.com/project/architectury-api) `9.2.14+forge`
+- [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `4.12.7`
+- [Balm](https://www.curseforge.com/projects/531761) `balm-forge-1.20.1-7.3.44.jar`
+- [Blood Magic](https://modrinth.com/project/blood-magic) `3.3.8-50`
+- [Bookshelf](https://modrinth.com/project/bookshelf-lib) `20.2.15`
+- [Botania](https://modrinth.com/project/botania) `1.20.1-456-forge`
+- [Botarium](https://modrinth.com/project/botarium) `2.3.4`
+- [Brandons Core](https://modrinth.com/project/brandons-core) `3.2.1.302`
+- [Building Gadgets](https://www.curseforge.com/projects/298187) `BuildingGadgets2-1.0.8`
+- [Cloth Config API](https://modrinth.com/project/cloth-config) `11.1.136+forge`
+- [Clumps](https://www.curseforge.com/projects/256717) `Clumps-forge-1.20.1-12.0.0.4.jar`
+- [CodeChicken Lib](https://modrinth.com/project/codechicken-lib) `4.4.0.528`
+- [CoFH Core](https://modrinth.com/project/cofh-core) `11.0.2`
+- [Common Capabilities](https://www.curseforge.com/projects/247007) `CommonCapabilities-1.20.1-2.9.11.jar`
+- [Controlling](https://www.curseforge.com/projects/250398) `Controlling-forge-1.20.1-12.0.2.jar`
+- [Cucumber Library](https://modrinth.com/project/cucumber) `7.0.16`
+- [Curios API](https://modrinth.com/project/curios) `5.14.1+1.20.1`
+- [Curvy Pipes](https://modrinth.com/project/curvy-pipes) `1.20.1-1.15.8`
+- [Cyclops Core](https://www.curseforge.com/projects/232758) `CyclopsCore-1.20.1-1.22.5.jar`
+- [DataPack Anvil](https://modrinth.com/project/dpanvil) `1.20.1-5.0.1`
+- [Draconic Evolution](https://modrinth.com/project/draconic-evolution) `3.1.2.621`
+- [Elemental Craft](https://modrinth.com/project/elemental-craft) `1.20.1-6.0.1`
+- [Embeddium](https://modrinth.com/project/embeddium) `0.3.31+mc1.20.1`
+- [EMI](https://modrinth.com/project/emi) `1.1.24+1.20.1+forge`
+- [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.20.1+forge`
+- [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `17.1.21`
+- [Ender IO](https://modrinth.com/project/enderio) `6.2.18-beta`
+- [EntityJS](https://modrinth.com/project/entityjs) `0.7.5`
+- [EvilCraft](https://www.curseforge.com/projects/74610) `EvilCraft-1.20.1-1.3.6.jar`
+- [Extended Crafting: Expanded Reforked](https://www.curseforge.com/projects/1531359) `ExtendedCrafting-1.20.1-6.1.9.jar`
+- [EyeJS: KubeJS Addon](https://www.curseforge.com/projects/1624204) `EyeJS-1.20.1-1.0.1.jar`
+- [FerriteCore](https://modrinth.com/project/ferrite-core) `6.0.1`
+- [Flux Networks](https://www.curseforge.com/projects/248020) `Flux-Networks-1.20.1-7.2.1`
+- [GeckoLib](https://www.curseforge.com/projects/388172) `geckolib-forge-1.20.1-4.8.4.jar`
+- [GregTech CEu Modern](https://modrinth.com/project/gregtechceu-modern) `mc1.20.1-7.5.3`
+- [GuideME](https://modrinth.com/project/guideme) `20.1.15`
+- [Hostile Neural Networks](https://modrinth.com/project/hostile-neural-networks) `5.3.3`
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.5.5+1.20.4-forge`
+- [Integrated Dynamics](https://www.curseforge.com/projects/236307) `IntegratedDynamics-1.20.1-1.31.5.jar`
+- [Jade 🔍](https://modrinth.com/project/jade) `11.13.3+forge`
+- [JourneyMap](https://modrinth.com/project/journeymap) `1.20.1-6.0.8+forge`
+- [Kotlin for Forge](https://www.curseforge.com/projects/351264) `Kotlin for Forge 4.13.0`
+- [KubeJS](https://modrinth.com/project/kubejs) `2001.6.5-build.26+forge`
+- [KubeJS Addon - Blood Magic](https://www.curseforge.com/projects/934206) `KubeJS Blood Magic-1.0.2-1.20.1.jar`
+- [KubeJS Powah](https://www.curseforge.com/projects/838378) `kubejspowah-1.2.1.jar`
+- [KubeJS Studio](https://modrinth.com/project/kubejs-studio) `1.3.0+forge-1.20.1`
+- [Kubejs studio performance patch](https://www.curseforge.com/projects/1784213) `kjstudioperf-1.20.1-1.0.0-alpha.9.jar`
+- [KubeJS Thermal](https://modrinth.com/project/kubejs-thermal) `2001.1.10-build.5`
+- [LDLib](https://modrinth.com/project/ldlib) `mc1.20.1-1.0.52.a-forge`
+- [Lodestone](https://modrinth.com/project/lodestonelib) `1.20.1-1.6.4.1`
+- [LootJS: KubeJS Addon](https://modrinth.com/project/lootjs) `1.20.1-2.13.1+forge`
+- [Malum](https://modrinth.com/project/malum) `1.20.1-1.6.7`
+- [Mantle](https://modrinth.com/project/mantle) `1.11.128`
+- [Matter Manipulator Reborn](https://www.curseforge.com/projects/1748833) `Matter Manipulator 0.1.3+1.20.1`
+- [McJtyLib](https://www.curseforge.com/projects/233105) `McJtyLib - 1.20-8.0.11`
+- [MEGA Cells](https://modrinth.com/project/mega) `forge-2.4.6`
+- [Mekanism](https://modrinth.com/project/mekanism) `10.4.16.80`
+- [Mekanism Generators](https://modrinth.com/project/mekanism-generators) `10.4.16.80`
+- [MMD OreSpawn](https://www.curseforge.com/projects/245586) `OreSpawn 4.1.0.120011 for Minecraft 1.20.1 (Forge)`
+- [Mob Grinding Utils](https://www.curseforge.com/projects/254241) `mob_grinding_utils-1.20.1-1.1.0.jar`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.28.0+mc1.20.1`
+- [Modonomicon](https://modrinth.com/project/modonomicon) `1.20.1-1.79.3`
+- [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.20.1-2.25.1-forge`
+- [Multiblocked2 Unofficial](https://www.curseforge.com/projects/1562745) `multiblocked2-unofficial-1.20.1-1.0.41.d.fix1.jar`
+- [Nature's Aura](https://modrinth.com/project/natures-aura) `39.4`
+- [Nolijium](https://modrinth.com/project/nolijium) `0.5.6`
+- [NuclearCraft Neoteric](https://modrinth.com/project/nuclearcraft-neoteric) `1.2.38`
+- [Patchouli](https://modrinth.com/project/patchouli) `1.20.1-85-forge`
+- [Pipez](https://www.curseforge.com/projects/443900) `[FORGE][1.20.1] Pipez 1.20.1-1.2.26`
+- [Placebo](https://modrinth.com/project/placebo) `8.6.3`
+- [Polymorph](https://modrinth.com/project/polymorph) `0.49.11+1.20.1`
+- [Powah!](https://modrinth.com/project/powah) `5.0.11-forge`
+- [Re:Avaritia](https://modrinth.com/project/re-avaritia) `1.20.1-1.4.4-release`
+- [Resourceful Config](https://modrinth.com/project/resourceful-config) `2.1.3`
+- [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `2.1.29`
+- [RFTools Base](https://www.curseforge.com/projects/326041) `RFToolsBase - 1.20-5.0.8`
+- [Rhino](https://modrinth.com/project/rhino) `2001.2.3-build.10+forge`
+- [Searchables](https://www.curseforge.com/projects/858542) `Searchables-forge-1.20.1-1.0.3.jar`
+- [SmartBrainLib (Forge/Fabric/Quilt)](https://www.curseforge.com/projects/661293) `SmartBrainLib Forge 1.20.1-1.15`
+- [Storage Drawers](https://www.curseforge.com/projects/223852) `Storage Drawers-1.20.1-forge-12.15.1`
+- [Thermal Cultivation](https://modrinth.com/project/thermal-cultivation) `11.0.1`
+- [Thermal Dynamics](https://modrinth.com/project/thermal-dynamics) `11.0.1`
+- [Thermal Expansion](https://modrinth.com/project/thermal-expansion) `11.0.1`
+- [Thermal Foundation](https://modrinth.com/project/thermal-foundation) `11.0.6`
+- [Thermal Innovation](https://modrinth.com/project/thermal-innovation) `11.0.1`
+- [Tinkers' Construct](https://modrinth.com/project/tinkers-construct) `3.12.1.231`
+- [Tinkers' Levelling Addon](https://modrinth.com/project/tinkers-levelling-addon) `1.5.0`
+- [TMRV Updated](https://www.curseforge.com/projects/1727144) `TooManyRecipeViewers 0.9.4 (Forge 1.20.1)`
+- [Waystones](https://modrinth.com/project/waystones) `14.1.21+forge-1.20.1`
+- [XNet](https://www.curseforge.com/projects/260912) `XNet - 1.20-6.1.8`
+- [Zume](https://modrinth.com/project/zume) `1.2.2`
+
+_Generated by packweave._

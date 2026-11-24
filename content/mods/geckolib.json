@@ -1,0 +1,22 @@
+{
+  "name": "GeckoLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "388172",
+      "slug": "geckolib",
+      "versionId": "8285794",
+      "versionNumber": "geckolib-forge-1.20.1-4.8.4.jar",
+      "filename": "geckolib-forge-1.20.1-4.8.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8285/794/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+      "fileSize": 1038209
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Common Capabilities",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "247007",
+      "slug": "common-capabilities",
+      "versionId": "7229322",
+      "versionNumber": "CommonCapabilities-1.20.1-2.9.11.jar",
+      "filename": "CommonCapabilities-1.20.1-2.9.11.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7229/322/CommonCapabilities-1.20.1-2.9.11.jar",
+      "sha1": "ab2cd0f0a409ea6f9b2f9bb67a57f3fe7077fd8b",
+      "fileSize": 251614
+    }
+  },
+  "dependents": [
+    "236307"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

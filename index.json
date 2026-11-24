@@ -1,0 +1,3708 @@
+{
+  "files": [
+    {
+      "path": "content/mods/ad-astra-extra.json",
+      "sha1": "155396742dbe6c80cdb8c237237adbace94ad797"
+    },
+    {
+      "path": "content/mods/ad-astra-more-structures.json",
+      "sha1": "7d6f450342288b5dfb6b617a19094dc65d749652"
+    },
+    {
+      "path": "content/mods/ad-astra.json",
+      "sha1": "dffba5fee02696b48cb3250c94735cd33f178129"
+    },
+    {
+      "path": "content/mods/ae2.json",
+      "sha1": "e9327fc5e27c345e14b4f617b989caed15cbd165"
+    },
+    {
+      "path": "content/mods/almostunified.json",
+      "sha1": "a85b6556b05bd995361f3782ccd092b929744855"
+    },
+    {
+      "path": "content/mods/appleskin.json",
+      "sha1": "74b3eaf493a548ceac7a935b11d4f900fdd4a6be"
+    },
+    {
+      "path": "content/mods/applied-mekanistics.json",
+      "sha1": "fc8084e31b18885673c0ad12fd8b944c9c2ce15b"
+    },
+    {
+      "path": "content/mods/architectury-api.json",
+      "sha1": "7810dc075155388b10061b6a3ec33a2132dc665c"
+    },
+    {
+      "path": "content/mods/ars-nouveau.json",
+      "sha1": "170ffdad1db5bbffbeb4b0fafcebd3205778a7e5"
+    },
+    {
+      "path": "content/mods/balm-2.json",
+      "sha1": "18d172d555af6776586e6d641cd09db8b1870152"
+    },
+    {
+      "path": "content/mods/balm.json",
+      "sha1": "2eab151c78a60ec4b105ad020d6200b72c8dfa9b"
+    },
+    {
+      "path": "content/mods/blood-magic.json",
+      "sha1": "cced4231aaa1eec3dae62c82056b74e7075bab1f"
+    },
+    {
+      "path": "content/mods/bookshelf-lib.json",
+      "sha1": "0a74f0212d875e51378a42c14a2af3b33de1a619"
+    },
+    {
+      "path": "content/mods/botania.json",
+      "sha1": "f1092e99e15623fc9f9c667322ecf1bfad07aefa"
+    },
+    {
+      "path": "content/mods/botarium.json",
+      "sha1": "9ddb2d758514a289f25f2be527fefd30d688c3aa"
+    },
+    {
+      "path": "content/mods/brandons-core.json",
+      "sha1": "37ea20d8c9fa33ee8ba2ad68c1d41d85fa1848dd"
+    },
+    {
+      "path": "content/mods/building-gadgets.json",
+      "sha1": "7df81fb118874ef0cd6f09a96a73e9bf4dd2fcae"
+    },
+    {
+      "path": "content/mods/cloth-config.json",
+      "sha1": "1ebfa35b25f63146874a1929a9fe679dba03c522"
+    },
+    {
+      "path": "content/mods/clumps.json",
+      "sha1": "fe5a18a0e388f0da50376f8580d62829ae725684"
+    },
+    {
+      "path": "content/mods/codechicken-lib.json",
+      "sha1": "24b64e92dbde0efc69c8ea2ec92416325b722a23"
+    },
+    {
+      "path": "content/mods/cofh-core.json",
+      "sha1": "11e82cf19c1d4ae001605412f58c0dcd89aa1cfe"
+    },
+    {
+      "path": "content/mods/common-capabilities.json",
+      "sha1": "7cc23e5e6c827fc1025d9b33dafb5013ed2077d1"
+    },
+    {
+      "path": "content/mods/controlling.json",
+      "sha1": "394409a164534f4c07def70c511c07bbe882ac30"
+    },
+    {
+      "path": "content/mods/cucumber.json",
+      "sha1": "e7780fdff56b60d20a009298d4fbfcaefedb6249"
+    },
+    {
+      "path": "content/mods/curios.json",
+      "sha1": "e8f9f6566a0316fb0f0ea47bf569e580803eb87d"
+    },
+    {
+      "path": "content/mods/curvy-pipes.json",
+      "sha1": "cd67170bc6612ceb39cfbe1e32e1f266497abb43"
+    },
+    {
+      "path": "content/mods/cyclops-core.json",
+      "sha1": "e93cc846101a92ca8243e585f152ff449a5d11c9"
+    },
+    {
+      "path": "content/mods/dpanvil.json",
+      "sha1": "91e060f0e4ab1989b63c7299489ff3b657c1a247"
+    },
+    {
+      "path": "content/mods/draconic-evolution.json",
+      "sha1": "9d3f96c50b5e7bd3295609c61e050d133d43ae42"
+    },
+    {
+      "path": "content/mods/elemental-craft.json",
+      "sha1": "fe1e0cd6b55847f5978b14f7a015162fb0fd4714"
+    },
+    {
+      "path": "content/mods/embeddium.json",
+      "sha1": "325f679f8e469a2fc1dffe62b840af5f71838708"
+    },
+    {
+      "path": "content/mods/emi-ores.json",
+      "sha1": "ed96425ca540141fdbbcd59791314cb20fb856fb"
+    },
+    {
+      "path": "content/mods/emi.json",
+      "sha1": "d62501e7f91ba91188bac075c9d34eb74981c5c8"
+    },
+    {
+      "path": "content/mods/enchantment-descriptions.json",
+      "sha1": "d6e2eacaabbdf34b2b372c13b24aea726db949f9"
+    },
+    {
+      "path": "content/mods/enderio.json",
+      "sha1": "6eff9f3b079e6647951adbe072a999b15327ca46"
+    },
+    {
+      "path": "content/mods/entityjs.json",
+      "sha1": "d7528bab92cf5c1c858d0deb265786239fa0ce30"
+    },
+    {
+      "path": "content/mods/evilcraft.json",
+      "sha1": "0ec654711b3a3fbac83b0d17f38fb889feedd391"
+    },
+    {
+      "path": "content/mods/extended-crafting-expanded-reforked.json",
+      "sha1": "436d8f73393a971ba5181bd12a0723bb453ae994"
+    },
+    {
+      "path": "content/mods/ferrite-core.json",
+      "sha1": "9e0ee4ac64e78d92cc1b3d5f9542b0d193fd443c"
+    },
+    {
+      "path": "content/mods/flux-networks.json",
+      "sha1": "2bf97aa9dd1b0749bc39a897e16922397bb26941"
+    },
+    {
+      "path": "content/mods/geckolib-2.json",
+      "sha1": "5785b9ea9e64532724dae753a4d601fe558c21c8"
+    },
+    {
+      "path": "content/mods/geckolib.json",
+      "sha1": "eea5ee59b90fe670b8831c4ac258f42a3bd82b1f"
+    },
+    {
+      "path": "content/mods/gregtechceu-modern.json",
+      "sha1": "3d2e472a4c22cf609f904e3239f5b00a5f742516"
+    },
+    {
+      "path": "content/mods/guideme.json",
+      "sha1": "389fc5e6fc79177b44f29224d3f9a089d831c1a0"
+    },
+    {
+      "path": "content/mods/hostile-neural-networks.json",
+      "sha1": "72c5f4752edbb212a397513b5dfa1f6d3c654368"
+    },
+    {
+      "path": "content/mods/immediatelyfast.json",
+      "sha1": "71ed50385c4976d3e611db4c29118830124a5c11"
+    },
+    {
+      "path": "content/mods/integrated-dynamics.json",
+      "sha1": "5cd42017634d217c52d62a224c4128a89d7406fe"
+    },
+    {
+      "path": "content/mods/jade.json",
+      "sha1": "d04a8f58bae31947e4e03441cdd8ac99ce123596"
+    },
+    {
+      "path": "content/mods/journeymap.json",
+      "sha1": "8f1a565f901d4d6d91c6718d4edc13a55eea883a"
+    },
+    {
+      "path": "content/mods/kotlin-for-forge-2.json",
+      "sha1": "cd6b56d82f74761a11724a184b5c1c066fade5fd"
+    },
+    {
+      "path": "content/mods/kotlin-for-forge.json",
+      "sha1": "b904188d0ff3b32a4e58de6464740b0e2a399f71"
+    },
+    {
+      "path": "content/mods/kubejs-addon-blood-magic.json",
+      "sha1": "0ed4b1d18126583aadafdae6cb2c6d7330007485"
+    },
+    {
+      "path": "content/mods/kubejs-eyejs.json",
+      "sha1": "e0bf1832cb6f01ebed534efe6c9c2d92fa62ad3e"
+    },
+    {
+      "path": "content/mods/kubejs-powah.json",
+      "sha1": "429a904074cc5db86fc4801868a934f6655ecd3e"
+    },
+    {
+      "path": "content/mods/kubejs-studio-performance-patch.json",
+      "sha1": "36ae8d3e61f491486526748c0783f4c35868edaa"
+    },
+    {
+      "path": "content/mods/kubejs-studio.json",
+      "sha1": "93dcb4c47f4876f6e0156918dbcf9b8514f93942"
+    },
+    {
+      "path": "content/mods/kubejs-thermal.json",
+      "sha1": "0307af8afac430167a7056183bd055224eb06386"
+    },
+    {
+      "path": "content/mods/kubejs.json",
+      "sha1": "270dbbec02101fe162dec401ee61ea0e759f4983"
+    },
+    {
+      "path": "content/mods/ldlib.json",
+      "sha1": "37617d682251254dbb10a6bcb1069146c65d246b"
+    },
+    {
+      "path": "content/mods/lodestonelib.json",
+      "sha1": "a622f2dd7c8c0ca4628ac211250c316570e580d1"
+    },
+    {
+      "path": "content/mods/lootjs.json",
+      "sha1": "c90c44d4c1c710a2d29ff788130a74b991952bb2"
+    },
+    {
+      "path": "content/mods/malum.json",
+      "sha1": "8d3438f5cae41f3a192f92e64764c76243c0e076"
+    },
+    {
+      "path": "content/mods/mantle.json",
+      "sha1": "faa67e860ebbe0929e976b0e3873c3c37af11d76"
+    },
+    {
+      "path": "content/mods/matter-manipulator-reborn.json",
+      "sha1": "e8130a410c9deb66c3227a74cb3abaacc457c204"
+    },
+    {
+      "path": "content/mods/mcjtylib.json",
+      "sha1": "2df3ee971707934a04a0b74eded8b2314d74cc3b"
+    },
+    {
+      "path": "content/mods/mega.json",
+      "sha1": "9aebe7a5f0016b0758d8d94c7935427ad6721fff"
+    },
+    {
+      "path": "content/mods/mekanism-generators.json",
+      "sha1": "23f05e099dce6ff03de50b949d81c1069dcd04a4"
+    },
+    {
+      "path": "content/mods/mekanism.json",
+      "sha1": "da7e3cbd0851a8c8606c0cfa8c10879f533a4ac5"
+    },
+    {
+      "path": "content/mods/mmd-orespawn.json",
+      "sha1": "26a803944782e9d5fa33db58eea15ce9d95116c8"
+    },
+    {
+      "path": "content/mods/mob-grinding-utils.json",
+      "sha1": "966b25c2a67d4ca02b069bdfca8b16483d463050"
+    },
+    {
+      "path": "content/mods/modernfix.json",
+      "sha1": "f9bd97aa53053108a170b066e932a5fad9df5ca8"
+    },
+    {
+      "path": "content/mods/modonomicon.json",
+      "sha1": "b798035e0d2461cb6db829364c584179a230b726"
+    },
+    {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "0ab6745b40270ed957263ba59f6d8b0568f93e46"
+    },
+    {
+      "path": "content/mods/multiblocked2-unofficial.json",
+      "sha1": "951449dcebdfd527816617a3e797386d39fd3bd8"
+    },
+    {
+      "path": "content/mods/natures-aura.json",
+      "sha1": "b0f987ee3baf0997b123deb2c718a140ef61d0e8"
+    },
+    {
+      "path": "content/mods/nolijium.json",
+      "sha1": "5d4d7eeda646a7bd972a40554d148b2dbc86cfb5"
+    },
+    {
+      "path": "content/mods/nuclearcraft-neoteric.json",
+      "sha1": "b55a0e367f8b258dc81ef5af9436e1811af77ec6"
+    },
+    {
+      "path": "content/mods/patchouli.json",
+      "sha1": "6cce87d1f717a3f394b0ba338de553716f4bd72b"
+    },
+    {
+      "path": "content/mods/pipez.json",
+      "sha1": "2052343fcf0145b3b148fcd08b20e83f726c69c6"
+    },
+    {
+      "path": "content/mods/placebo.json",
+      "sha1": "12c43e13d11df96675677501885604be05b0bfad"
+    },
+    {
+      "path": "content/mods/polymorph.json",
+      "sha1": "20f33a76cd51afc0cb915e9096452e229741b992"
+    },
+    {
+      "path": "content/mods/powah.json",
+      "sha1": "09eab3464b8d7632e536b7a190bd3ff43d43f998"
+    },
+    {
+      "path": "content/mods/re-avaritia.json",
+      "sha1": "de2144c483ff3c3e973672dcfede71804f97b733"
+    },
+    {
+      "path": "content/mods/resourceful-config.json",
+      "sha1": "d6ac05f4dae4938c33fc01e785331878a4dafab1"
+    },
+    {
+      "path": "content/mods/resourceful-lib.json",
+      "sha1": "283b26e5705a19515bbbabb6939135c2386ec1e2"
+    },
+    {
+      "path": "content/mods/rftools-base.json",
+      "sha1": "4088d6a9e44310a6cdfd0006b7c6e63c13dc0b70"
+    },
+    {
+      "path": "content/mods/rhino.json",
+      "sha1": "3b25ee90fe6540670fa78b6d6b487a5c2198d69c"
+    },
+    {
+      "path": "content/mods/searchables.json",
+      "sha1": "f3150f37a771b27bda0077603954b5db593c6340"
+    },
+    {
+      "path": "content/mods/smartbrainlib.json",
+      "sha1": "4e430faf4be1582612a7f1c313a232f255cef01e"
+    },
+    {
+      "path": "content/mods/storage-drawers.json",
+      "sha1": "913e1b449b1163f9cca7d09a11bb5574e9441e17"
+    },
+    {
+      "path": "content/mods/thermal-cultivation.json",
+      "sha1": "81360525bdee15f8bbd3b2ea03272e1a635f6e64"
+    },
+    {
+      "path": "content/mods/thermal-dynamics.json",
+      "sha1": "6023160cdf082da47292d7e7cfc032e3c3abeeb8"
+    },
+    {
+      "path": "content/mods/thermal-expansion.json",
+      "sha1": "eeec0f3ee9b9bb4612029245bc6666d7eb8bb083"
+    },
+    {
+      "path": "content/mods/thermal-foundation.json",
+      "sha1": "e2980f6aa72492830a2d01db0d79c0a448e100b5"
+    },
+    {
+      "path": "content/mods/thermal-innovation.json",
+      "sha1": "c58d30f903bf5fe1e38b77cce172487aa219c00e"
+    },
+    {
+      "path": "content/mods/tinkers-construct.json",
+      "sha1": "d1a24ed3f545a9243c66bfc075ffcefaa6bac720"
+    },
+    {
+      "path": "content/mods/tinkers-levelling-addon.json",
+      "sha1": "939f620bc0518f5bded85800e10a5a6fd9d06c6c"
+    },
+    {
+      "path": "content/mods/tmrv-updated.json",
+      "sha1": "bdd243e9cef1992ea8e2d2326c12b05fa4cdc084"
+    },
+    {
+      "path": "content/mods/waystones.json",
+      "sha1": "9394641701c9f3d9d1b00908e84cd5620e8ad6aa"
+    },
+    {
+      "path": "content/mods/xnet.json",
+      "sha1": "73795109f7917ae03cfedf587b72c597b3302600"
+    },
+    {
+      "path": "content/mods/zume.json",
+      "sha1": "5a251c38c3ab5f8b912011c398212e031a2248f7"
+    },
+    {
+      "path": "overrides/LAPGCCraft.zip",
+      "sha1": "ebdca2aa150f0779cb179954344fa0452171f665"
+    },
+    {
+      "path": "overrides/config/Mekanism/client.toml",
+      "sha1": "42a0030b43a0e6a36b1517a92e1b855455348719"
+    },
+    {
+      "path": "overrides/config/Mekanism/common.toml",
+      "sha1": "28d80dbce2d2b76128d287b7d1d4652703f78085"
+    },
+    {
+      "path": "overrides/config/Mekanism/gear.toml",
+      "sha1": "1498fbda41f25ae377c6e9be61efadd0f22e655a"
+    },
+    {
+      "path": "overrides/config/Mekanism/general.toml",
+      "sha1": "d81ca0684a198c80695003d58511dc45e25b1817"
+    },
+    {
+      "path": "overrides/config/Mekanism/generator-storage.toml",
+      "sha1": "a30466cb1b2fe31bf9f84273b7e0265a8be5e632"
+    },
+    {
+      "path": "overrides/config/Mekanism/generators-gear.toml",
+      "sha1": "6802831f4d5713d8e1a4e7ea43b5848d8fd64140"
+    },
+    {
+      "path": "overrides/config/Mekanism/generators.toml",
+      "sha1": "5158705c75dc038ec843b2076d17e82a0bae0fa7"
+    },
+    {
+      "path": "overrides/config/Mekanism/machine-storage.toml",
+      "sha1": "4dc57a4998ec9371b12199d8593c9922cc23b0aa"
+    },
+    {
+      "path": "overrides/config/Mekanism/machine-usage.toml",
+      "sha1": "df9c637e952c8fc2bbca58499f3fc1f189c8f293"
+    },
+    {
+      "path": "overrides/config/Mekanism/tiers.toml",
+      "sha1": "3a03c64889c7a865aabc287625abc4aab22063aa"
+    },
+    {
+      "path": "overrides/config/Mekanism/world.toml",
+      "sha1": "b66e8167544336a94b0fcafaa824c5f26cd1f10b"
+    },
+    {
+      "path": "overrides/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator.toml",
+      "sha1": "67aeee799df156a2319f05dab9dd795823e847b6"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/! README.TXT",
+      "sha1": "fd204bb16849eb8792a6577ce8668ff9b6408c7d"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/aluminum.json",
+      "sha1": "446e6a9a3cb3ccde3215df926d9dba3b9cff672f"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/arsenic.json",
+      "sha1": "9281dfc2e1a7ae57b2bfeb975bdbc62134016e3c"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/boron.json",
+      "sha1": "0fa29956eb34c51e51c3e46bd26e7fad2bb31288"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/carobbiite.json",
+      "sha1": "2fe452bebab1e0502c69d123efce9ba7def3303b"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/copper.json",
+      "sha1": "6611006d21ee69490842103473f23c7e0ffb1610"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/cryotheum.json",
+      "sha1": "d75498ac1b653b8e29a7d0f6c2ab2d07b7b6411e"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/diamond.json",
+      "sha1": "d8866f9064f2af945a03f2ce21bca69fb8d2fca4"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/emerald.json",
+      "sha1": "ae695f0ad0a85c6ea83a64182d138abcfb237b6f"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/empty.json",
+      "sha1": "d4aa3922d54613127ac65c71139e70a8518967a3"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/end_stone.json",
+      "sha1": "12445a1893c692d17b0252a62f89004cf0142df8"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/enderium.json",
+      "sha1": "fb13243850fe26c58a73c6afced45bd903a24245"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/fluorite.json",
+      "sha1": "b5df2fd13dc2988e0814b3c5627775826c0d7158"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/glowstone.json",
+      "sha1": "56b846829214c6d34ecf1b7b83a503782cdf01ed"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/gold.json",
+      "sha1": "36ee0f91e85144e9b33520634959d3b38515c54e"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/iron.json",
+      "sha1": "92f7ba920d522cad4725ad9f90f3432501cd96f3"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/lapis.json",
+      "sha1": "b40b5bf9e5e06e9559ad38f09afc86927b319a3f"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/lead.json",
+      "sha1": "9e5d68067a98f12463d72456a9eaa95cb0b2d875"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/liquid_helium.json",
+      "sha1": "b193b84aa303afc4d051b0fdfdce161bc8a640f4"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/liquid_nitrogen.json",
+      "sha1": "0c938941ad7f490a8d644788d6009b65a25a52f4"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/lithium.json",
+      "sha1": "10e6c3e8934d638514e27c3a740a5d207b49dbfb"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/magnesium.json",
+      "sha1": "bebac1cb0566a58e010d2079f0db0f3c1012e728"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/manganese.json",
+      "sha1": "009ec29bec934b28d949d43cd2d82b247a6ec11c"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/nether_brick.json",
+      "sha1": "a8db873ebb5b36ed07740c0f4bd4ec4a41e95bad"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/obsidian.json",
+      "sha1": "1eb45c6630f301e3be7c7eeb0cce2abb97e2798f"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/prismarine.json",
+      "sha1": "161e2200a9b6dc1e80a9189be15a58403612bd44"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/purpur.json",
+      "sha1": "34d648aa5ce73ef7cdd0f543a42528ae7e0a047d"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/quartz.json",
+      "sha1": "afcf4685d9ea9ca96bfdf7693ea8a390670cbb1f"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/redstone.json",
+      "sha1": "1d0e5fb227115eab838cabbd8ca963f769ae945a"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/silver.json",
+      "sha1": "6d5be94c0401d3f9cc9f5caeb4cbbae1608b1588"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/slime.json",
+      "sha1": "7d339e337f80e1075fd25fbf7c574c6d33bfedce"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/tin.json",
+      "sha1": "241ba85847de7de38831961e51b805a9debe6698"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/version.txt",
+      "sha1": "356a192b7913b04c54574d18c28d46e6395428ab"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/villiaumite.json",
+      "sha1": "bebadddce39fc8732d34c4e9eeb6be15a040c9f6"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/accelerator_coolers/water.json",
+      "sha1": "13e6bbc22ce240418fabab1b833e46bdb62572cd"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/client.toml",
+      "sha1": "5fa6118fb7e5d73ce0b67c2e35df9fd1ed865071"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/common.toml",
+      "sha1": "6ee288ee680de18d213ac75b1e47fd84ae91837d"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission.toml",
+      "sha1": "42b1cbf843638d6eef75e680e39d0ec881e322f7"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/americium.json",
+      "sha1": "2188a3394a3c5080a99167053bca8bc11b9cb1b7"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/berkelium.json",
+      "sha1": "6a4fb8908b6eafe30e30f53e0613284559d44256"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/californium.json",
+      "sha1": "cc9be0c44fa68ee4690c338ac50dba9e529e0025"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/curium.json",
+      "sha1": "f4e006dec55e4cd8ad94166d628930049b75496c"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/mixed.json",
+      "sha1": "45a9c23d7cea668cd124162ac9b7ab16c5ff8ae1"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/neptunium.json",
+      "sha1": "504e8fd0452d7c5f288580ba53c2f52f254201bc"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/plutonium.json",
+      "sha1": "b5bf1c63aefc9e1383d74f0ab9c07f10c4e3ef81"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/thorium.json",
+      "sha1": "0080617af474304885ff3a74e2844277542a29ba"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/uranium.json",
+      "sha1": "543d585c446a2dd865d03cdbeb52e91b4752962e"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/version.txt",
+      "sha1": "356a192b7913b04c54574d18c28d46e6395428ab"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fission_fuel/xenorium.json",
+      "sha1": "ff9232891dd295a3e01fcc46423260b9a1ed75a1"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/fusion.toml",
+      "sha1": "29bb6e548d7e79cd63c55c7c964824e2e5057ee7"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_exchanger.toml",
+      "sha1": "311a6b7c813ef35ac7cabd923a633642ac334082"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/! README.TXT",
+      "sha1": "fd204bb16849eb8792a6577ce8668ff9b6408c7d"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/active_cryotheum.json",
+      "sha1": "15a1791e6cc954a63963bf0e59e33d4b01b6bdad"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/active_enderium.json",
+      "sha1": "4a681f009965b5511b1c1a2f6fe1de419754e352"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/active_liquid_helium.json",
+      "sha1": "3b69061a0f4e2f736e78939683db8ee2615e72d8"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/active_liquid_nitrogen.json",
+      "sha1": "4bbe4b5432b4e57fef0e834ac75429b7394a79ae"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/active_redstone.json",
+      "sha1": "157b93db4ef2e101d5d2092e5c8c70d8f3c3486e"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/active_water.json",
+      "sha1": "c211492897d798e1f379b17d73ffb047e6ac776d"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/aluminum.json",
+      "sha1": "af3aa666c289ea847bb77c468a84d231c34e7536"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/arsenic.json",
+      "sha1": "8757db0262ed9f0931ad73523156cd375cca4143"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/boron.json",
+      "sha1": "62ff71b3e78dd5a4415215b4ff882a18495ef401"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/carobbiite.json",
+      "sha1": "8b0acbeb39492bc7b91049c8bcf308b06bb3502e"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/cobalt.json",
+      "sha1": "a1e3dceaf6d579d025c3cc393902f2eddb06bbe8"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/copper.json",
+      "sha1": "790aa785f25fa170b0eefbc10443c2ebd91fb571"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/cryotheum.json",
+      "sha1": "76f1de68f63923cbafa1a51c9c11ca1dbd0e81da"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/diamond.json",
+      "sha1": "5eb2f3a04c76d0a01f2063902b89ec40c15fe01a"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/emerald.json",
+      "sha1": "d396cd3f8646343cc35ac813d19ab648e9b965fb"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/empty.json",
+      "sha1": "d4aa3922d54613127ac65c71139e70a8518967a3"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/empty_active.json",
+      "sha1": "b743e9da6c81ba8d987e9d67370b663c8cf779b2"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/end_stone.json",
+      "sha1": "281e1b8dd45de22a0effe9261061e2a3472e2c0b"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/enderium.json",
+      "sha1": "25938c834b7880c41c00f44d59a0e316cc44da67"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/fluorite.json",
+      "sha1": "b7e2f3bc113e5ee67765b9f7676e69bd1fcb136a"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/glowstone.json",
+      "sha1": "18e54b45fd70ac538c6433c49f986b25ea19328b"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/gold.json",
+      "sha1": "59d3bd8b313c8e9a6c7a51d878c99ea4200b3ff0"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/iron.json",
+      "sha1": "c7c9666552c3c25c9807c5ae60f6cd2dda8c9f7e"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/lapis.json",
+      "sha1": "73c2b99ecb3e6460837a8a66fc680e54ac0c3df3"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/lead.json",
+      "sha1": "16489e0ace36e58dfe747178f3a5d9a36b6df39a"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/liquid_helium.json",
+      "sha1": "59d7ac5bbdac4988261c4551946230e3d01f3bdf"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/liquid_nitrogen.json",
+      "sha1": "f6e7ab36ec263cdbf7908a6d6b5dd20fe58e8ece"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/lithium.json",
+      "sha1": "53aea3644015dd2dd4a77f7876d172d879ae1a75"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/magnesium.json",
+      "sha1": "7e7238bc1da0201815516f889c5d8306cb469e6b"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/manganese.json",
+      "sha1": "c794194fa0d1633fe5c48a5455f13176a9d5c14c"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/nether_brick.json",
+      "sha1": "8bcc7e6526b911f5b9155a9235108625af893ce9"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/netherite.json",
+      "sha1": "aaaf656fd1412adb568285da0c1e1c004c422976"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/obsidian.json",
+      "sha1": "fbda4ba9fd97cff3a202d218b8ad5e245f818278"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/platinum.json",
+      "sha1": "9e2bcdcc678b759d53a582e1606519c2e8be419f"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/prismarine.json",
+      "sha1": "cf60c1396b10c31c2927727725b8efb5bbbfce9b"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/purpur.json",
+      "sha1": "ad970a71d6caa6245360d3d4a7c4511c035136df"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/quartz.json",
+      "sha1": "0586829de0939e5cff13db6b33e5f274d8f9629a"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/redstone.json",
+      "sha1": "0aabc2ad8a58bd22550730be87ed3ddcd4fdd442"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/silver.json",
+      "sha1": "befa691ee6b888d11d083fc44fec44cc2cb19e53"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/slime.json",
+      "sha1": "5c4c4a92f3c6bf4cd4785624f7e543c750367798"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/tin.json",
+      "sha1": "27d6201a349da19dba0768e71c8c5fb485321e2a"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/version.txt",
+      "sha1": "356a192b7913b04c54574d18c28d46e6395428ab"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/villiaumite.json",
+      "sha1": "98b895dc7497eeef8adbb62f493f46428d2b95e8"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/heat_sinks/water.json",
+      "sha1": "4f96aae128e456af03a190757e2747f5ab97685a"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/kugelblitz.toml",
+      "sha1": "e746906517284c2b0b917503441b29b99d36a8ce"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/materials.toml",
+      "sha1": "47c31ca8ad550edfc85fb7a2800d64e6cae0a4fc"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/ore_generation.toml",
+      "sha1": "ab4246c780edbeafbbb93a1a0f10347bbf5adb14"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/processors.toml",
+      "sha1": "7a0d4ade8d426422ad6bb8883341acd793cf9f78"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/radiation.toml",
+      "sha1": "bb0ccb25783e9ecdc0ea3a994dc50d3ebe4fb828"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/turbine.toml",
+      "sha1": "cc975edcb0679d5bd975244c64903946d2bc34d3"
+    },
+    {
+      "path": "overrides/config/NuclearCraft/world.toml",
+      "sha1": "356e97d8ec453f38bedf9b6cc960632a0c75b7d3"
+    },
+    {
+      "path": "overrides/config/ad_astra-client.jsonc",
+      "sha1": "2e814ca406c40d95d13854663cb576c6e8cb8469"
+    },
+    {
+      "path": "overrides/config/ad_astra.jsonc",
+      "sha1": "279a19d8d801d769333df955a1345f8c99ea968c"
+    },
+    {
+      "path": "overrides/config/ae2/client.json",
+      "sha1": "41264bc9deb1475a88a414c0a52aba101c08d4b4"
+    },
+    {
+      "path": "overrides/config/ae2/common.json",
+      "sha1": "39aa7d032dbc65f5b8798fe67e1db2a531b52ba1"
+    },
+    {
+      "path": "overrides/config/almostunified/debug.json",
+      "sha1": "e29a3345bd8460f8223db9f2f69e03af7f91d23a"
+    },
+    {
+      "path": "overrides/config/almostunified/duplicates.json",
+      "sha1": "b7ff2e8184317e57b8bf64b5a5e1b42d46f3d8a8"
+    },
+    {
+      "path": "overrides/config/almostunified/startup.json",
+      "sha1": "9b304acbcc64a55182bae4cbb8a09b15f4c42fe0"
+    },
+    {
+      "path": "overrides/config/almostunified/unify.json",
+      "sha1": "ef2ab6c3322212c357436f5d3dfcec6ed12cf01b"
+    },
+    {
+      "path": "overrides/config/appleskin-client.toml",
+      "sha1": "b8cb646e03d46a0841f0c931b5c722ade9ea9d31"
+    },
+    {
+      "path": "overrides/config/ars_nouveau-client.toml",
+      "sha1": "1fe5c865d372bcb5b0bd92c8b7be017a4b7f88b9"
+    },
+    {
+      "path": "overrides/config/ars_nouveau-common.toml",
+      "sha1": "b42ef216eff0bad2cf74eee4469fa0a5fc12dadb"
+    },
+    {
+      "path": "overrides/config/ars_nouveau-server.toml",
+      "sha1": "891944406ad6e5e0014f61551d7a457b13f43605"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/burst.toml",
+      "sha1": "307778867dd48cca45cb5e6a2b8d8339bf265833"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_accelerate.toml",
+      "sha1": "80aad89e94a9382ab58b6852d2509d6a94a1def8"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_amplify.toml",
+      "sha1": "a4a92f6ee8ba500d7858d430b7b107a7e2a05e79"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_animate_block.toml",
+      "sha1": "867a3131bed5064661aa1c5622c1af0aa1fdba95"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_aoe.toml",
+      "sha1": "d95a3d0ad521816a9848ddd8b3a3213dfb943aab"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_blink.toml",
+      "sha1": "7736c43defcf72ecab6cfcc62063e306e302de39"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_bounce.toml",
+      "sha1": "62c044040d0d297d36089d6d3873f3edb1b1f669"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_break.toml",
+      "sha1": "89370b32e6f6f73c141980e8dfe921bd2d63a427"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_cold_snap.toml",
+      "sha1": "9a04e03720dc38484df3ad19db7402e38b10c4c6"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_conjure_water.toml",
+      "sha1": "c761a06d7011472a01f6714703039199f5e225d4"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_craft.toml",
+      "sha1": "f5a523b129c4fe7e4abea025bd7c591f44cf3fab"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_crush.toml",
+      "sha1": "ab6dbce5b42855719bdb0b9de956500424204f52"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_cut.toml",
+      "sha1": "5c7fe6e5ac1e05271cea34484687d351b3324e53"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_dampen.toml",
+      "sha1": "5c3857b73f63ee99107acf9cc764cbc10bddadeb"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_decelerate.toml",
+      "sha1": "3699b0aa5d4d95a4d397c818deb73bf2a5c67c71"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_delay.toml",
+      "sha1": "41020a72a24662d4e3135ae9c17574edf82b08f2"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_dispel.toml",
+      "sha1": "d7a495300a64546ecb32493988c2bb9102a3fe16"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_duration_down.toml",
+      "sha1": "f9e2b8533f8cd0adad3d5d8fe77b18673615f654"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_ender_inventory.toml",
+      "sha1": "a958cfa72df0cede97e4f83614aa31472230cfc3"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_evaporate.toml",
+      "sha1": "f5a523b129c4fe7e4abea025bd7c591f44cf3fab"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_exchange.toml",
+      "sha1": "a958cfa72df0cede97e4f83614aa31472230cfc3"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_explosion.toml",
+      "sha1": "82ac813a348dbcddc74624461aed212d2cd61eea"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_extend_time.toml",
+      "sha1": "80aad89e94a9382ab58b6852d2509d6a94a1def8"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_extract.toml",
+      "sha1": "5973ff65c3efd57fb4b78450cd5efb96b45cac8f"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_fangs.toml",
+      "sha1": "b136570b45e2ec944005b60afd3ba1a092b210c2"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_fell.toml",
+      "sha1": "afffbd59bc525c6ded6f5dab7e6a98ac2089103e"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_firework.toml",
+      "sha1": "8f24ee06476ffa82298c20c3d8ef93de72020763"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_flare.toml",
+      "sha1": "07318ce64418ef45dcc7efdc3bd4680a84196be9"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_fortune.toml",
+      "sha1": "80df2da8852e5274b47d016a719da129368e993f"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_freeze.toml",
+      "sha1": "2b8c644ce1dda847b08c25bb096c4f4ccb249557"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_glide.toml",
+      "sha1": "519ce499e3be7f574ab95dc00ae7400652c8598e"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_gravity.toml",
+      "sha1": "8f5c013fc4a968a63fe0b9be4a6d4a4b9bbdb8d8"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_grow.toml",
+      "sha1": "656b10dcd93d2a866fe3196d4499a5b29030bb17"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_gust.toml",
+      "sha1": "f7e40c18e4374e1c59b8048412f37a0ece6a55e1"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_harm.toml",
+      "sha1": "8ec36a3b76900027c53dc2b6c1d4a235df0e3aeb"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_harvest.toml",
+      "sha1": "f13bdb9c26a7bf526f68e11f10b4bf5c1600a27c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_heal.toml",
+      "sha1": "37742bca32f8612fd96ea1527c77aa58a4721097"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_hex.toml",
+      "sha1": "5869e4abf38c9472b84013388b35be19425bdc0a"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_ignite.toml",
+      "sha1": "f1fc849c2725c47a0a153d408352d58bbb783711"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_infuse.toml",
+      "sha1": "6257472ecbb13112cb34c1bccd9870c25f6a62b0"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_intangible.toml",
+      "sha1": "10959da86e3b6dd2fb691a39f928dd28c39e644b"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_interact.toml",
+      "sha1": "f13bdb9c26a7bf526f68e11f10b4bf5c1600a27c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_invisibility.toml",
+      "sha1": "f99fa0ddfb62880d7e57ccaa1f3d7465a8920c3c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_launch.toml",
+      "sha1": "70e300741934875f05f30aa5baff3e1d1d7f3cf3"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_leap.toml",
+      "sha1": "3188d6145b2fd8b5bc5b90f81206d7b1a5f6a6e5"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_light.toml",
+      "sha1": "40b703f36d2e00c455f8ba28ceafe963c2611908"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_lightning.toml",
+      "sha1": "2f294d2256ef3606bebcab44740d8769ea8e37da"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_linger.toml",
+      "sha1": "f418479af197ba9c81b48345045143633541ecf5"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_name.toml",
+      "sha1": "fdef0da89a8bf627a7461104cb0d3e4d83104ead"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_orbit.toml",
+      "sha1": "f9b8c5ca95d435c9786f6778dc18188c6737174c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_phantom_block.toml",
+      "sha1": "70b6ef4b2cbffb3196bf8ed93812645818144142"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_pickup.toml",
+      "sha1": "f13bdb9c26a7bf526f68e11f10b4bf5c1600a27c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_pierce.toml",
+      "sha1": "f3613db75a9453d651f0867b3473654a8ebd2df6"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_place_block.toml",
+      "sha1": "f13bdb9c26a7bf526f68e11f10b4bf5c1600a27c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_projectile.toml",
+      "sha1": "0e6fd8ed898dee20ad43e1d3ac6dc1c94c251810"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_pull.toml",
+      "sha1": "1bcb5d3b9ad5531f911720c68b2112df6e1af2af"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_randomize.toml",
+      "sha1": "5dae39f525de46e72b57c0592c374cabd137fc70"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_redstone_signal.toml",
+      "sha1": "d801e846c46af14a960a3285cf93a6d80d2a0717"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_rotate.toml",
+      "sha1": "f13bdb9c26a7bf526f68e11f10b4bf5c1600a27c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_rune.toml",
+      "sha1": "d7a495300a64546ecb32493988c2bb9102a3fe16"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_self.toml",
+      "sha1": "4ddd415f5866165eeb2130260c30a2c221e8a277"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_sense_magic.toml",
+      "sha1": "3544927487ddb2aa59a198862b7c227943101320"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_sensitive.toml",
+      "sha1": "6bfb718a6980197e2fbaafb7b376a7d5b66e669d"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_slowfall.toml",
+      "sha1": "f99fa0ddfb62880d7e57ccaa1f3d7465a8920c3c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_smelt.toml",
+      "sha1": "054d28c6e3d2ec337f912536d9f6d3ef942e15fa"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_snare.toml",
+      "sha1": "680f6c793d09146ae6bebdbf8f6451aca9272d02"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_split.toml",
+      "sha1": "2acfece18a376b9d8413a2f953758de9cf9f46ca"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_summon_decoy.toml",
+      "sha1": "bf49a4bf652d0d1d490abf56f512ba8f4ec3c7fc"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_summon_steed.toml",
+      "sha1": "403e76b261b0948926b453550f91cea5e7b36f5d"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_summon_undead.toml",
+      "sha1": "380c1a0afb5389ad35606ab8d3207a06e324f145"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_summon_vex.toml",
+      "sha1": "380c1a0afb5389ad35606ab8d3207a06e324f145"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_summon_wolves.toml",
+      "sha1": "77b1b24f7ddf6c17251c79a9fb57728a9df51b47"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_toss.toml",
+      "sha1": "f13bdb9c26a7bf526f68e11f10b4bf5c1600a27c"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_touch.toml",
+      "sha1": "43c52fe7318ccfa3d917bfbe2ccf61d9c2b413a6"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_underfoot.toml",
+      "sha1": "fc57ed00a9beb634e5a13ab41e988ce67856308a"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_wall.toml",
+      "sha1": "23434f1aee195823973906f7c0bbab5a2e9fd456"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_wind_shear.toml",
+      "sha1": "09a211cc345c0ac62dbb3eb0a32bdbffb7d6e0b4"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/glyph_wither.toml",
+      "sha1": "5869e4abf38c9472b84013388b35be19425bdc0a"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/reset.toml",
+      "sha1": "bc3d412616f6cccd5dd5fda581cd7da8598bd694"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/rewind.toml",
+      "sha1": "12d38b4b2818c076671207b9e2f10237ac842eb4"
+    },
+    {
+      "path": "overrides/config/ars_nouveau/wololo.toml",
+      "sha1": "d7a495300a64546ecb32493988c2bb9102a3fe16"
+    },
+    {
+      "path": "overrides/config/avaritia-common.toml",
+      "sha1": "fa4ef6995210f495b0ca420b2df2486513270a31"
+    },
+    {
+      "path": "overrides/config/bloodmagic-client.toml",
+      "sha1": "75121b620c0335e7e42c11b611d91dd5033efaa2"
+    },
+    {
+      "path": "overrides/config/bloodmagic-common.toml",
+      "sha1": "276a5df1a32b586eba5a8c2178c7e483205ec85c"
+    },
+    {
+      "path": "overrides/config/botania-client.toml",
+      "sha1": "117ecc39642e4c6baff3e0e97298075eec56860f"
+    },
+    {
+      "path": "overrides/config/botania-common.toml",
+      "sha1": "088e2488a95650f33d2cefec0ad0fa126eba2513"
+    },
+    {
+      "path": "overrides/config/brandon3055/BrandonsCore.cfg",
+      "sha1": "0ebdc248ab9e6985c2b01008e5329bff3f3bc8ad"
+    },
+    {
+      "path": "overrides/config/brandon3055/DraconicEvolution.cfg",
+      "sha1": "97c6058307a949f6242ec81f49f221af63dc3328"
+    },
+    {
+      "path": "overrides/config/brandon3055/ModuleStats.cfg",
+      "sha1": "1aa74c219d00d504eec1609b05c2555a9a7bf55f"
+    },
+    {
+      "path": "overrides/config/brandon3055/contributors.json",
+      "sha1": "79e7344d9a6e3a0991028acd300c63a715409102"
+    },
+    {
+      "path": "overrides/config/brandon3055/contributors.json.etag",
+      "sha1": "266dceaf9f2c163b1f9e82c74ba3b613de9e0a6d"
+    },
+    {
+      "path": "overrides/config/brandon3055/hud_settings.json",
+      "sha1": "1e4525120ce1f2a1ea6445755032ddbaa2df9dc9"
+    },
+    {
+      "path": "overrides/config/buildinggadgets2-common.toml",
+      "sha1": "8cb1f2d4d28cb2fa6deabbc2602cac5e8e9f81d4"
+    },
+    {
+      "path": "overrides/config/ccl.cfg",
+      "sha1": "eb78dac3775e809bb79d27ff8e057eaf7a0604fd"
+    },
+    {
+      "path": "overrides/config/cofh_core-client.toml",
+      "sha1": "bbe7e0a529f7ded2cb50b0346c51a82f15479449"
+    },
+    {
+      "path": "overrides/config/cofh_core-common.toml",
+      "sha1": "f3339fdddcd8ff831ba7c5b3d9a4f87d68eb3ea8"
+    },
+    {
+      "path": "overrides/config/commoncapabilities-common.toml",
+      "sha1": "51e9f1de258e3a8e921d384327673fb828be18e1"
+    },
+    {
+      "path": "overrides/config/cucumber-client.toml",
+      "sha1": "aa6c0f85574c6cd9e02a0b1e6e7ede896f97e98a"
+    },
+    {
+      "path": "overrides/config/cucumber-common.toml",
+      "sha1": "a5213b0690494a8ff919efd9ef8ff3d387f6b010"
+    },
+    {
+      "path": "overrides/config/cucumber-tags.json",
+      "sha1": "6f4574e0053c4f6fd5faf8a6043ac7bb38e8005a"
+    },
+    {
+      "path": "overrides/config/curios-client.toml",
+      "sha1": "20231e7678e808f8c314ecae45c6d198ea6d273c"
+    },
+    {
+      "path": "overrides/config/curios-common.toml",
+      "sha1": "611ed96fc65508121dc78536ada4d39e3798197b"
+    },
+    {
+      "path": "overrides/config/curvy_pipes_default.yaml",
+      "sha1": "e703c36cb8892a4e2d9717a4cca4fcc2ad4f4512"
+    },
+    {
+      "path": "overrides/config/cyclopscore-common.toml",
+      "sha1": "5620d79852064e4b72fbaa1e7c3888a7f24de6ac"
+    },
+    {
+      "path": "overrides/config/elementalcraft-client.toml",
+      "sha1": "7018ef59804e977ef555fcaf464833335c7879f5"
+    },
+    {
+      "path": "overrides/config/elementalcraft-common.toml",
+      "sha1": "7097c08092cbb53c518173df98f6dcfebe513bd6"
+    },
+    {
+      "path": "overrides/config/embeddium-fingerprint.json",
+      "sha1": "2188bd6ed39dcdb063dfe0ead2f8dd041102b657"
+    },
+    {
+      "path": "overrides/config/embeddium-mixins.properties",
+      "sha1": "a729ee50d18cf2204ff9fc33bc21641d55185c88"
+    },
+    {
+      "path": "overrides/config/embeddium-options.json",
+      "sha1": "4f530bfc22a9c010db8d3796101a925d9003518e"
+    },
+    {
+      "path": "overrides/config/emi.css",
+      "sha1": "1cbadf5ed589d82ccc08e9154e84457e7ad8bbb1"
+    },
+    {
+      "path": "overrides/config/emi_ores-client.json",
+      "sha1": "47f12bc9d15cdca075a06c5ba8c680a331283099"
+    },
+    {
+      "path": "overrides/config/enchdesc.json",
+      "sha1": "171e9e9bf1c0eb070d19730bf2eb2a2e049bfbbb"
+    },
+    {
+      "path": "overrides/config/enderio/armory-common.toml",
+      "sha1": "3bbfd60a56cef77f08abf188f571091aff7b0a1b"
+    },
+    {
+      "path": "overrides/config/enderio/base-client.toml",
+      "sha1": "0c3adf87dd6d1bcb0833d3cd12e6a6c217a8cba0"
+    },
+    {
+      "path": "overrides/config/enderio/base-common.toml",
+      "sha1": "1e4a7ff248ee114e9da6c5b814d7b80c96855ba4"
+    },
+    {
+      "path": "overrides/config/enderio/machines-client.toml",
+      "sha1": "0fac85c6c599d31fe084846c50494e7bacdfe827"
+    },
+    {
+      "path": "overrides/config/enderio/machines-common.toml",
+      "sha1": "5003a7430f567bdea3c86b1848dc207fe4d64657"
+    },
+    {
+      "path": "overrides/config/evilcraft-common.toml",
+      "sha1": "f076308f2c559b298d3d4dcac5aaa20a8681525d"
+    },
+    {
+      "path": "overrides/config/extendedcrafting-client.toml",
+      "sha1": "4301945e87ded053f230532bfa2516b6b8ef91ee"
+    },
+    {
+      "path": "overrides/config/extendedcrafting-common.toml",
+      "sha1": "5d55df5f8eee2961b9bbae8448a13e01c40c1034"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/aluminum.json",
+      "sha1": "9178d94d0744232dac102175a0b745dbb3563a93"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/bronze.json",
+      "sha1": "49e8180669c1fbccd6ad77005f93e1cd93b959bd"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/coal.json",
+      "sha1": "219f140702a905f6e035507f0f5481cf72d9f81d"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/copper.json",
+      "sha1": "059c036fdb7961727f562f6a53db6bbd3fdf7db7"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/diamond.json",
+      "sha1": "fa42e8bebecec76a6063410d0c01d4cbf0df27da"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/electrum.json",
+      "sha1": "55fb7f3b45b0d476bd6f40bfad555e623fb41672"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/emerald.json",
+      "sha1": "47221a5fdf07f09af6af7bce79feccea5ab60fa5"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/glowstone.json",
+      "sha1": "c417681e8ca4a2e8941b8f05f0434afab86a3a72"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/gold.json",
+      "sha1": "423fd110b8764405dd2d45441cf7acff2ba4f949"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/invar.json",
+      "sha1": "1e44289f53c38aaf0d26db8faba8acff9902096a"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/iron.json",
+      "sha1": "40530b56cbf09d665b78915a98044997a8f8292a"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/lapis_lazuli.json",
+      "sha1": "128e34ebf7e519459221dbbbbce3283e925b22b7"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/lead.json",
+      "sha1": "a446b50aece8380a31a23d9eef396e2ba73f455a"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/nickel.json",
+      "sha1": "670efa268428e2fbe5696d9e7c8bcd651490fc65"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/platinum.json",
+      "sha1": "d1b7226eee1dba4274cc6056ff745148c2aa6ed0"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/redstone.json",
+      "sha1": "c0167144e1f7e280aaded18e641a4d3e4a5c7b1c"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/silver.json",
+      "sha1": "690dfb9cee28722ee77d5a8a5307f917db0fbcc0"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/steel.json",
+      "sha1": "f45472df6d61e4305dc6dacc1041cf7c73874b97"
+    },
+    {
+      "path": "overrides/config/extendedcrafting/singularities/tin.json",
+      "sha1": "c25d62cd5b2d169a39420ee8a91a1174364ac7bd"
+    },
+    {
+      "path": "overrides/config/ferritecore-mixin.toml",
+      "sha1": "55a7afffbbd22ed84bb252473ec623fcf9928f7b"
+    },
+    {
+      "path": "overrides/config/fluxnetworks-client.toml",
+      "sha1": "afa1d9d64b4cf3f9d64f4b9370162b113f6bff64"
+    },
+    {
+      "path": "overrides/config/fluxnetworks-common.toml",
+      "sha1": "1ba61996374ed762bd652aad3640545dfc8d50a9"
+    },
+    {
+      "path": "overrides/config/flywheel-client.toml",
+      "sha1": "27e15fe096be1a93276712ca11393e9a8398fe17"
+    },
+    {
+      "path": "overrides/config/fml.toml",
+      "sha1": "9c5387969705f9ee274feef69a5ae5b43775746b"
+    },
+    {
+      "path": "overrides/config/forge-client.toml",
+      "sha1": "95d6c8253b4e0ad9300aa359cf75646c3c3775b6"
+    },
+    {
+      "path": "overrides/config/gtceu.yaml",
+      "sha1": "e7049fc7eec8861661bc6a365ee9ca79c9abf0ab"
+    },
+    {
+      "path": "overrides/config/guideme.toml",
+      "sha1": "b0d5de970e477919900253a99d51587c3d760231"
+    },
+    {
+      "path": "overrides/config/hostilenetworks.cfg",
+      "sha1": "987be7e689e31bf424213a7d8282e7fbcc6b346a"
+    },
+    {
+      "path": "overrides/config/immediatelyfast.json",
+      "sha1": "adcb21b0ad5f7f1c124517ff64fc701a737e4ea1"
+    },
+    {
+      "path": "overrides/config/integrateddynamics-common.toml",
+      "sha1": "e2d28f6cc95dd7395ffbe7fef5e029c7cd9b8010"
+    },
+    {
+      "path": "overrides/config/integrateddynamicscompat-common.toml",
+      "sha1": "4a0488eae5998c030838f947ac714d68bd699fa1"
+    },
+    {
+      "path": "overrides/config/jade/hide-blocks.json",
+      "sha1": "8b3297cc5db5ed84dd48d2905fb21ee3063e0e25"
+    },
+    {
+      "path": "overrides/config/jade/hide-entities.json",
+      "sha1": "548656ff89ad489730a4b5fdf071a6e98fcd5033"
+    },
+    {
+      "path": "overrides/config/jade/jade.json",
+      "sha1": "4b8dfafefdb63901c1f3b7835056bc17f3490ee6"
+    },
+    {
+      "path": "overrides/config/jade/plugins.json",
+      "sha1": "4994bc981b11a798ca88a21963a00c523a0ec292"
+    },
+    {
+      "path": "overrides/config/jade/sort-order.json",
+      "sha1": "d70ef9604ad16d31e77678bfb1980749cb4652bf"
+    },
+    {
+      "path": "overrides/config/kjstudioperf-client.toml",
+      "sha1": "26e6f115c058ca449e16a7709f2a6fc2a659cc04"
+    },
+    {
+      "path": "overrides/config/kubejsstudio.json",
+      "sha1": "947602f077cfb9dd396be97db14baea774a843c9"
+    },
+    {
+      "path": "overrides/config/kubejsstudio/pending.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/kubejsstudio/settings.json",
+      "sha1": "7247a3109de12ccbdb1856ceb2e34c4ecad785d0"
+    },
+    {
+      "path": "overrides/config/kubejsstudio/themes/example.json",
+      "sha1": "3ca7ab824db794b449a08e9d7eb095c78c00a6b8"
+    },
+    {
+      "path": "overrides/config/ldlib2-client.toml",
+      "sha1": "49a033ff97cc409df562b7c7f4ec12a54e3d1621"
+    },
+    {
+      "path": "overrides/config/lodestone-client.toml",
+      "sha1": "62ce6b0bbb5ac4cf2d75402cfe9591675c926501"
+    },
+    {
+      "path": "overrides/config/malum-client.toml",
+      "sha1": "4b58267101735a772e9f076e9392e734b30d3173"
+    },
+    {
+      "path": "overrides/config/malum-common.toml",
+      "sha1": "e62651097736600a538f975d4f1f03381945ba53"
+    },
+    {
+      "path": "overrides/config/mantle-client.toml",
+      "sha1": "7df84a512b24f5057a379a23df1fd33c06d915ac"
+    },
+    {
+      "path": "overrides/config/matter_manipulator-client.toml",
+      "sha1": "1882e6cb781aa8c798f584668047eb67fbf9141f"
+    },
+    {
+      "path": "overrides/config/mbd2-common.toml",
+      "sha1": "e56347559583c5df135f4ce024249db7f3237cbc"
+    },
+    {
+      "path": "overrides/config/mcjtylib-client.toml",
+      "sha1": "c756e221d9a26665d6cb61f75e58003c77dbcafd"
+    },
+    {
+      "path": "overrides/config/megacells.json",
+      "sha1": "e664d02f33432f6c1a8fef30d6039b4fc56d5548"
+    },
+    {
+      "path": "overrides/config/mezz_config/client/default/settings.ini",
+      "sha1": "1f22cd48de02f98b8deda413d9f51a9b520e787c"
+    },
+    {
+      "path": "overrides/config/modernfix-common.toml",
+      "sha1": "3a96c37e34315101d732dd898b78895de2b6f6aa"
+    },
+    {
+      "path": "overrides/config/modernfix-mixins.properties",
+      "sha1": "3e2070a7bb4744c81cd078933c9c745d76fd6ae2"
+    },
+    {
+      "path": "overrides/config/modonomicon-client.toml",
+      "sha1": "29b597225b95524a9b7395ff3a2f958dcb497a9b"
+    },
+    {
+      "path": "overrides/config/naturesaura-common.toml",
+      "sha1": "993337898111d5b98d21caf42d775081a7a07a2f"
+    },
+    {
+      "path": "overrides/config/nolijium.json5",
+      "sha1": "e250518137db8bab643bf1626b1e903acd7e3b22"
+    },
+    {
+      "path": "overrides/config/orespawn-common.toml",
+      "sha1": "20637fb48ebf4cd0567ea3883cddde2708f43419"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/API.md",
+      "sha1": "780b328059f72121ed3da57d65739f6d604c4e93"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/BIOMES.md",
+      "sha1": "1acaf9dfe58fd673008536ab1b70b31dedd19f39"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/CONFIGURATION.md",
+      "sha1": "367cf52c579ce51db16ea06458af3caadb15f8d6"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/DEVELOPER_GUIDE.md",
+      "sha1": "726abd4fefd7b6ee0cb64b95d99a6babc6c53791"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/DIMENSIONS.md",
+      "sha1": "ce3d7ea5deae41cf9d3dacc0916814f0608e6eeb"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/FEATURES.md",
+      "sha1": "95f24ce2d49f9fa5a14d7fc63d55c1890747c5a8"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/MIGRATION.md",
+      "sha1": "fc43916b2e67c1908fe83bdab2f07bc53ac0e126"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/PLAYER_GUIDE.md",
+      "sha1": "e24fa6dcab47df9d6d6f49a34b48933a1d07f3db"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/PROVIDERS.md",
+      "sha1": "f303a8b4293a53be7f929dbb7615f4dd860d23da"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/README.md",
+      "sha1": "25a60b53b28009ee585308f6caef1a94bfd0017b"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/TEMPLATES.md",
+      "sha1": "bd80b1fd93967acf2bef909c91ae9ec5fd641a23"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/TROUBLESHOOTING.md",
+      "sha1": "d531ee3381854c9cf1bfc545b9f1702348011a93"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/VERSIONS.md",
+      "sha1": "32e8244283ef1bf80b9d00d1d0995eb74f4ec1ab"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/examples/examplemod-orespawn.json",
+      "sha1": "8ac20a46bd663dd5e6de515a8044b30f73ea1168"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/examples/orespawn-global.json",
+      "sha1": "e5818754d783b519608bd956ad36b59142aa7bce"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/examples/orespawn-world.json",
+      "sha1": "4b3176a83444f5a6e58e5f3fc11fe8aefc4aff07"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/schemas/orespawn-global.schema.json",
+      "sha1": "bb16b5b56b31f1e2e7bc4a19e55678ee3d3032cf"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/schemas/orespawn-provider.schema.json",
+      "sha1": "7736ac1698e4b5711c95d6eb02658c2fd607d3df"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/schemas/orespawn-world.schema.json",
+      "sha1": "a9aea17428f81ce937f84ac7a944176166f101ed"
+    },
+    {
+      "path": "overrides/config/orespawn-guide/schemas/profile-common.schema.json",
+      "sha1": "bbb31807f8fda724845144e2a9eb6961d888696b"
+    },
+    {
+      "path": "overrides/config/orespawn-worldgen.json",
+      "sha1": "e01dddfbb44f68b24482ac17c6fed683535b8504"
+    },
+    {
+      "path": "overrides/config/patchouli-client.toml",
+      "sha1": "44523d99721e89142e2211db7fbf0391636fc512"
+    },
+    {
+      "path": "overrides/config/polymorph-integrations.toml",
+      "sha1": "55b87320db0094b11f70978543eb542ea6c56719"
+    },
+    {
+      "path": "overrides/config/ponder-client.toml",
+      "sha1": "7104a8c29bbfe8ddc16f0767faad8569318c8da6"
+    },
+    {
+      "path": "overrides/config/powah.json5",
+      "sha1": "fd64f2c74cecee106c207eb8049e3e414481983f"
+    },
+    {
+      "path": "overrides/config/resourceful-config-web.json",
+      "sha1": "b19a4cfe2d21ed6f6d170400afff09001c243c35"
+    },
+    {
+      "path": "overrides/config/storagedrawers-client.toml",
+      "sha1": "f5c3487fb86909fd59c4bd52c06f77f233085a0d"
+    },
+    {
+      "path": "overrides/config/storagedrawers-common.v2.toml",
+      "sha1": "9518422ad679a31a64a02faa0d41325635e4a498"
+    },
+    {
+      "path": "overrides/config/tconstruct-client.toml",
+      "sha1": "7f024b53972ebe9d13991675979f81c8b3937cb7"
+    },
+    {
+      "path": "overrides/config/tconstruct-common.toml",
+      "sha1": "2a191531ede2ae57d19d77d150390bbb616c4324"
+    },
+    {
+      "path": "overrides/config/thermal-client.toml",
+      "sha1": "8fbeff7f64291236635bb291e3cdf98dc0a63d54"
+    },
+    {
+      "path": "overrides/config/thermal-common.toml",
+      "sha1": "289cb001ceb637ac37d064ef174b09cacf62059f"
+    },
+    {
+      "path": "overrides/config/tinkerslevellingaddon-client.toml",
+      "sha1": "5239b9e557793fa44f9dfca1dd53584a105936e3"
+    },
+    {
+      "path": "overrides/config/tmrv_plugins.json5",
+      "sha1": "fab12907c05a3f1c9375e9b2a4e9afc87d275c97"
+    },
+    {
+      "path": "overrides/config/waystones-common.toml",
+      "sha1": "7f370e542c69c47ca4aa5898d44c39b41d341c54"
+    },
+    {
+      "path": "overrides/config/xnet-client.toml",
+      "sha1": "9ed4755a6ac5a9fa4f0ed297bdb06952ae9a5ff5"
+    },
+    {
+      "path": "overrides/config/zume.json5",
+      "sha1": "d1f7f7cefb1042d843972a118d73bffeb63702e1"
+    },
+    {
+      "path": "overrides/gtceu/prospection_cache/FrenchFryFan_297b45d0-95d4-4771-b6fe-23b87d67d76d/v0_1_0_069458d8-022b-4f9e-a930-c2e614a9bd09/gtceu/fluids.nbt",
+      "sha1": "ac31bc2aed596d0060bea773696a1ed84aa87cc7"
+    },
+    {
+      "path": "overrides/gtceu/prospection_cache/FrenchFryFan_297b45d0-95d4-4771-b6fe-23b87d67d76d/v0_1_1_fbf8344d-1a6e-49ff-93af-3fde25f62936/gtceu/fluids.nbt",
+      "sha1": "ac31bc2aed596d0060bea773696a1ed84aa87cc7"
+    },
+    {
+      "path": "overrides/gtceu/prospection_cache/JandBDavenport_30c251f6-404a-4347-9db7-d536cf6774c2/Singleplayer_Dev_World_12158956-dfba-4980-8575-00844c65d413/gtceu/fluids.nbt",
+      "sha1": "ac31bc2aed596d0060bea773696a1ed84aa87cc7"
+    },
+    {
+      "path": "overrides/gtceu/prospection_cache/JandBDavenport_30c251f6-404a-4347-9db7-d536cf6774c2/world_1622b82a-697d-4997-8fd9-715d03a12383/gtceu/fluids.nbt",
+      "sha1": "ac31bc2aed596d0060bea773696a1ed84aa87cc7"
+    },
+    {
+      "path": "overrides/icon.png",
+      "sha1": "0fc41e40359025222c2685d3b7fcaa891897e359"
+    },
+    {
+      "path": "overrides/journeymap/config/6.0/journeymap.core.config",
+      "sha1": "331e4800165c1151e5b34cf9abacc29e61f9742d"
+    },
+    {
+      "path": "overrides/journeymap/config/6.0/journeymap.fullmap.config",
+      "sha1": "fb317bb9849ee062fadc82072ad8bd5b2e567a2b"
+    },
+    {
+      "path": "overrides/journeymap/config/6.0/journeymap.minimap.config",
+      "sha1": "462af4f1dc6409dbaddb72f2a7935300ab632d67"
+    },
+    {
+      "path": "overrides/journeymap/config/6.0/journeymap.minimap2.config",
+      "sha1": "4f082429bffe7766960c835103c7c3197e4891e3"
+    },
+    {
+      "path": "overrides/journeymap/config/6.0/journeymap.rendering.config",
+      "sha1": "1f2f3a991a12d127d0023e428852d96b9c905e61"
+    },
+    {
+      "path": "overrides/journeymap/config/6.0/journeymap.topo.config",
+      "sha1": "d83efa4daf04fe5c5b9bdfec32ab2a91d968c008"
+    },
+    {
+      "path": "overrides/journeymap/config/6.0/journeymap.waypoint.config",
+      "sha1": "92e4ab320ebedc6f01080c567ddde2c8d3eb23cd"
+    },
+    {
+      "path": "overrides/journeymap/config/6.0/journeymap.webmap.config",
+      "sha1": "7104fb46df3a29ca260474a69b02001eac3f9df5"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net/.legacy_cache_cleaned",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/.legacy_cache_cleaned",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/2/0,-1.png",
+      "sha1": "9621a962210facf09dcadeafe279eb2ef5c030b3"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/2/0,0.png",
+      "sha1": "e1e334736a5de03a87cdb8a83d03510b7191c2fc"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/2/1,-1.png",
+      "sha1": "c188632220d51421250ab38b7f2aa02f483e5c77"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/2/1,0.png",
+      "sha1": "5296ebfbfc8747ced955dd5f4ee5e1c012ecbcff"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/3/0,-1.png",
+      "sha1": "5c6bdd30fac5b8faefeec919a7913d4d3bd0e2e2"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/3/0,0.png",
+      "sha1": "68ea56dbe893811743f98dfeae4ce493dd1acc63"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/3/1,-1.png",
+      "sha1": "79fad2b964f7f4143f085b316076ba43101c3f39"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/3/1,0.png",
+      "sha1": "3c5ee2f9f162ff4831aac308384a63379188b248"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/biome/0,-1.png",
+      "sha1": "053922bbad436b0b4643ab20689f88ec932497ce"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/biome/0,0.png",
+      "sha1": "3d1eb1e7bacb1354947104b5dc4db98991cae483"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/biome/1,-1.png",
+      "sha1": "c6c4be8190655ee71611022c4e0759c9be851a3d"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/biome/1,0.png",
+      "sha1": "59cc2e3fdb83746fbda62c1567627704be84d807"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/chunk_cache/c.0.-1.jmc",
+      "sha1": "0dce0c8e701d4d3f86cfe0c5d9464b4fc88771f7"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/chunk_cache/c.0.0.jmc",
+      "sha1": "123184b9fd7c4ddd82c06668d421fa209994cd7d"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/chunk_cache/c.1.-1.jmc",
+      "sha1": "e3dce650ad541a4306f842dd065f88b0694ae4c1"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/chunk_cache/c.1.0.jmc",
+      "sha1": "53a02469d16e65ade2101a2516add923261a9321"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/day/0,-1.png",
+      "sha1": "27730dbe6f4d8647ae91d959e45fbbc359802c11"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/day/0,0.png",
+      "sha1": "64c81ae1432dca58f20b1f0e8a81289f347ebe02"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/day/1,-1.png",
+      "sha1": "f47e639ad459b50c0d135f096406d9a9e5df110f"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/day/1,0.png",
+      "sha1": "8f846fe8372788de6e2455ed76063c12d38b26ef"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/night/0,-1.png",
+      "sha1": "ba122abf345725079fd0e9e70c7fffcc8f81db00"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/night/0,0.png",
+      "sha1": "e467712bdcbfe10117efbb1e5d50a6ec822aeedb"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/night/1,-1.png",
+      "sha1": "9826bb393ff2920632c5b5e056f23a0142e11872"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/night/1,0.png",
+      "sha1": "458bc35bfa7f8acb92f4aa7301dff3929e2a4d6f"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/topo/0,-1.png",
+      "sha1": "5793aa5404e165e10cbf336118a8d32a378dc397"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/topo/0,0.png",
+      "sha1": "1cbfb9409e30efbb1d4f264148c0d450afc949b1"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/topo/1,-1.png",
+      "sha1": "c0c6bffc79d91f26c24bee7fe8f8c3106ad3702f"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/topo/1,0.png",
+      "sha1": "1cb2e39d4f02ebf6062663c25bee00d5b8c15a40"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/WaypointData.dat",
+      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_00-50-19.dat",
+      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_00-58-42.dat",
+      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_02-50-15.dat",
+      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_17-42-58.dat",
+      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
+    },
+    {
+      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_18-23-34.dat",
+      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/.legacy_cache_cleaned",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/biome/-1,-1.png",
+      "sha1": "4b650b397b3370423e24c78d7d4dc5a1c9e15e12"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/biome/-1,0.png",
+      "sha1": "a1ed85e02abfac805b1b2fea9676a3ca5a28a86a"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/biome/0,-1.png",
+      "sha1": "f2fe17247111d123354d4709d20a7b7517f10fb1"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/biome/0,0.png",
+      "sha1": "e6075be28fb5fc9156ae8ec807b03796b3199550"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/chunk_cache/c.-1.-1.jmc",
+      "sha1": "df9166780ce639c06afa274579282d21fa2ec4cb"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/chunk_cache/c.-1.0.jmc",
+      "sha1": "4aab87f6c975775f9226b51bf8ae37dd0019ca18"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/chunk_cache/c.0.-1.jmc",
+      "sha1": "244260b5c104d91c134fbbf2a815c707e2859a02"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/chunk_cache/c.0.0.jmc",
+      "sha1": "bda944c58f9b9e8e6227b5c945387bc2dce52208"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/day/-1,-1.png",
+      "sha1": "cd6dcced4b4a27ff87c3eb0ad556edc92b15a212"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/day/-1,0.png",
+      "sha1": "4eaae75fd837a202c6efdce4366aeb673c225de5"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/day/0,-1.png",
+      "sha1": "709328c6d3672e3e153a87ad773baf54f28f47a3"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/day/0,0.png",
+      "sha1": "894023ae9732d00d8f17ff481982db0bcb12ac7c"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/night/-1,-1.png",
+      "sha1": "5c27b060902bbc6c05e6a80bb81e6d6371084c82"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/night/-1,0.png",
+      "sha1": "467d46dfc4992acc476043c9c4fda25184a88bf8"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/night/0,-1.png",
+      "sha1": "284d90e8240a566a44b7cf40c300fd81b96a35eb"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/night/0,0.png",
+      "sha1": "5751bc8ff7a2d610a06f0d468d9a3746b24a0a36"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/topo/-1,-1.png",
+      "sha1": "098c12e8ca5aef86e27bef110a020d9d37f25929"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/topo/-1,0.png",
+      "sha1": "e1e844b375c72500bb2de9d8fc5ce379819b5530"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/topo/0,-1.png",
+      "sha1": "071482a37044dd2d6a8cde87824ca1fefc8163d8"
+    },
+    {
+      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/topo/0,0.png",
+      "sha1": "0119cc82b45b96e9770d5686d6a621b88ccdca48"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ad_astra/mob_mogler.png",
+      "sha1": "2730eb109a8d011723f2312b028afc775fbaa349"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ad_astra/mob_mogler_outlined.png",
+      "sha1": "6b690a400558d262aeb55036e48a291c3b6ab2f8"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ad_astra/mob_zombified_mogler.png",
+      "sha1": "557d3013981ec8a14caf7cd3ee3ca02f421c8854"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ad_astra/mob_zombified_mogler_outlined.png",
+      "sha1": "e9a688b739b00f930cb390a020a23086a569aed9"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ars_nouveau/drygmy_brown.png",
+      "sha1": "34fb102559e05dc3b32f094b99a02ced918932e1"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ars_nouveau/drygmy_brown_outlined.png",
+      "sha1": "28aaeda5370d3969584a0654f0311402ec35f87c"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ars_nouveau/starbuncle_black.png",
+      "sha1": "03bb2aae2b7bd4d705b923b1598ef3deec1e9dc7"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ars_nouveau/starbuncle_black_outlined.png",
+      "sha1": "98815710902c137d5b23e4af20c3e2a4af02a747"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ars_nouveau/starbuncle_gray.png",
+      "sha1": "a149e11c43cffc4d1defaa230dfeb24e62e02794"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/ars_nouveau/starbuncle_gray_outlined.png",
+      "sha1": "46368972a4da6411b5aca177ea4e7eb30e6b8e29"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/bee.png",
+      "sha1": "c221cb92926ccc6f44b247a16ac814e531bae2c3"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/bee_nectar.png",
+      "sha1": "161540020c69808ba012ee4073f86eb5d8e95d25"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/bee_nectar_outlined.png",
+      "sha1": "327bcea2ffb156dda1e6a4f925461ff43769f848"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/bee_outlined.png",
+      "sha1": "55c4454b879e1be426586ded76ebdc915af1633d"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/chicken.png",
+      "sha1": "c4ea842230bf2ec097052d276aea16165ed6edf0"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/chicken_outlined.png",
+      "sha1": "8146874565ca9d888e20b83beb77a91ea2921d23"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/cow.png",
+      "sha1": "b3a3e6b8aff9b1bbcedc9acd7e98681640940b87"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/cow_outlined.png",
+      "sha1": "d1c2e3d4f34c1877a227a8ed53514ce5beb072f8"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/creeper.png",
+      "sha1": "2b09169dab0559401bae1065416efa42a0033e26"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/creeper_outlined.png",
+      "sha1": "129375c8be8336cb0342020b74601c9ee2e8ba0d"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/fish_cod.png",
+      "sha1": "5416d5892c90a8555149e8eeb7121c701ec791d8"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/fish_cod_outlined.png",
+      "sha1": "e24ca12335ac078e6167fa2509823a7f29a59c30"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/fish_salmon.png",
+      "sha1": "06f97a33ec7bea69f805014177ab16e5c7f2c699"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/fish_salmon_outlined.png",
+      "sha1": "6a7f5f6d2bbf340acee2260de5a0ea9bdc228b02"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/pig.png",
+      "sha1": "77766ce54bb9cdbfac110a1bd6afe55c168e972b"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/pig_outlined.png",
+      "sha1": "92f41df395bb697f524983a6b2ebea29fc706994"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/sheep.png",
+      "sha1": "13c70eeb6321cad0eb3e7e555d7c973e429a424a"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/sheep_outlined.png",
+      "sha1": "5a6e23c9e9c80f85f2522e0953ab3719f4c839ef"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/skeleton.png",
+      "sha1": "ab3de706e2b94e335127af9d2ceb656a29d127b0"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/skeleton_outlined.png",
+      "sha1": "d48e9760934c061abd4eed4f0f7e29607b8c1ec4"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/spider.png",
+      "sha1": "e73bf47689961daa7955b5613aa63ee4ff435734"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/spider_outlined.png",
+      "sha1": "8717003001f0ee762fd61645efebf480f270b9f7"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/turtle_big_sea_turtle.png",
+      "sha1": "c6d0c88327ded80d54efb47d87da62e2b936d74b"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/turtle_big_sea_turtle_outlined.png",
+      "sha1": "6820def67ce856f1f7a2ba4547f1977581bdcdfd"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/zombie.png",
+      "sha1": "7089bf178da88d19ddae0c9525f9c994f222e5f2"
+    },
+    {
+      "path": "overrides/journeymap/icon/entity/minecraft/zombie_outlined.png",
+      "sha1": "9d85f5893ef3f9967315ef80232dec5f128369f4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/default.theme.config",
+      "sha1": "66ed9fd0f60640262c30ae960958396cf22bd80c"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/DesertTemple.theme2.json",
+      "sha1": "a3d83b043da95ad37da725188ceeb366757fbfe9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/EndCity.theme2.json",
+      "sha1": "9ee7ec3ffdec2c1f9261151e71634974db6fffc8"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/ForestMansion.theme2.json",
+      "sha1": "ca3e1d41c0bba4005aa50c3ceb8a98c1fbb1dee6"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/NetherFortress.theme2.json",
+      "sha1": "e8ace1c6652343c3f3647c88a9dc44bdb04f7cd7"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/OceanMonument.theme2.json",
+      "sha1": "29b64ee8830fc876491e134f1f6485bfaac27f64"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/Purist.theme2.json",
+      "sha1": "255661125cfbdf3f85ce3513da9f03b5844cf6fb"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/Stronghold.theme2.json",
+      "sha1": "504bb40aea12eea7e23dbbd79dc6af803e9bd7fd"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/container/htoolbar_begin.png",
+      "sha1": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/container/htoolbar_end.png",
+      "sha1": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/container/htoolbar_inner.png",
+      "sha1": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/container/vtoolbar_begin.png",
+      "sha1": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/container/vtoolbar_end.png",
+      "sha1": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/container/vtoolbar_inner.png",
+      "sha1": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/control/flat_button_disabled.png",
+      "sha1": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/control/flat_button_hover.png",
+      "sha1": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/control/flat_button_off.png",
+      "sha1": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/control/flat_button_on.png",
+      "sha1": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
+      "sha1": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/control/flat_toggle_hover.png",
+      "sha1": "be10c006eab72f086d5cca11ec2bcd785d8ce2f4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/control/flat_toggle_off.png",
+      "sha1": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/control/flat_toggle_on.png",
+      "sha1": "26a258d5bd8490909fe269611aa4bd574bc94de1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/about.png",
+      "sha1": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/actions.png",
+      "sha1": "5b88aac3387e5f63b5ba29c284191a99646c4629"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/alert.png",
+      "sha1": "2c2178c4d11aa2f4f70e390441ecc3c2adc6966c"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/animals.png",
+      "sha1": "1fc66426ce53560f90a0bca24890b0c8714b2d21"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/automap.png",
+      "sha1": "1da71cdc3d72a1521e77f52923dbe9255d23f67f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/biome.png",
+      "sha1": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/browser.png",
+      "sha1": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/caves.png",
+      "sha1": "562edb7762f675de702cdc7bc657d7446693880e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/close.png",
+      "sha1": "e5ca87379db037c679fb92d0072f784443afede4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/colorpalette.png",
+      "sha1": "8a27bfe28afc655aeedb1604a0a2adc5eee3c9c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/day.png",
+      "sha1": "7bfe8be57f5a770ae008effd7d0cac955f92d91c"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/delete.png",
+      "sha1": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/disable.png",
+      "sha1": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/follow.png",
+      "sha1": "c1b1f897797021eb5fae548382de10b97f946905"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/grid.png",
+      "sha1": "09afd9fa4691b587c929c6ccdf7a636d5692dee1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/keys.png",
+      "sha1": "1d89290ae4fafaaeefe5e68373a25ac1e99b6b56"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/layers.png",
+      "sha1": "8806ccc808740ec8d6ec48c412c0d951f8e71212"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/monsters.png",
+      "sha1": "a05471a2929bb4777a817a1118b1ac47de1020c1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/night.png",
+      "sha1": "0f9fe8a76a4b0feaa219b091694b585e8d9ceeda"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/options.png",
+      "sha1": "1e7f049470b34ed17319fd6c4b45e0ff75e06530"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/pets.png",
+      "sha1": "4cb5c9ac069d5bb608f2b671efbf6457eee54842"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/players.png",
+      "sha1": "171c188e205ae5c6d447e4c52cfb3af905e83f4f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/reset.png",
+      "sha1": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/savemap.png",
+      "sha1": "1e4bf7ac739866f58a1dee5498c45678fe49520f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/search.png",
+      "sha1": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/server.png",
+      "sha1": "f93f98b8561edae9cf52c96081e72b242e28ed66"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/topo.png",
+      "sha1": "61f6b3c5c7983593a78f9771b1f4b3655415c3c5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/villagers.png",
+      "sha1": "9a38ac4817eed36ab1e86d8b1146e04c232f22a2"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/waypoints.png",
+      "sha1": "978ea1cdd28da49282d4456f061c2c924c20a70a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/zoomin.png",
+      "sha1": "a93758aecf369719b0517212c979b983c29b4741"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/icon/zoomout.png",
+      "sha1": "3e20bc40df2b7667048ac037b85363f733881ed4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
+      "sha1": "26adc50b1d9a1c13b4d26d70433649775ba5fe0a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
+      "sha1": "4367fc3d812d8d5f81c6746f701fcd135645b3b5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
+      "sha1": "5e3b19479e3bc0bf3af60c4482e779787d5c2e52"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
+      "sha1": "aa405337c289ec63a01e72b8f8e7a3841cc35c0d"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
+      "sha1": "123813da9ba84038e69af47787adb62000b7cc30"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
+      "sha1": "ab425705e2ae45e4db27b6f1af974e8303ef788b"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
+      "sha1": "da3be616803ff558b8980ccac8ba77d64fe9b39a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
+      "sha1": "65e0f984f11c10b015d22126d90345e647400875"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
+      "sha1": "3e7846fe3fc526c6bb7cf6497dd8a719eadeab84"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
+      "sha1": "3a8dc933863889e61ad7476938957f8e5f439ff0"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
+      "sha1": "fcf50a822335d1a9658175f3094e385c01800274"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
+      "sha1": "3b63a83f6f8ba1dea73eff5f2bb0f2d324202bc9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
+      "sha1": "44bdb215f3bad82e2c2192cd13bd679662f7a7d6"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
+      "sha1": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_left.png",
+      "sha1": "f3592b1ac4b9468c38e5b6d8332200e769e31355"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_right.png",
+      "sha1": "5988717bde8ef0060b6dc920f655ebbbaaabce40"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_top.png",
+      "sha1": "60ef85784d07de0d1ab0500560af9e8b5387aec5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
+      "sha1": "691f58cc7ca8b938b857c8de077a08b883b66389"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/flat_topright.png",
+      "sha1": "b5edd14dfe4f8d55800da0de8b43e3fc00c96332"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
+      "sha1": "a3884c4387c24963f666f51032e1766d87697bea"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
+      "sha1": "63cbad15df737b563dc20ec9aa573c68e527aca5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
+      "sha1": "df136d1e11230fa8d0fe0fb84f2081247f4262a9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
+      "sha1": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_left.png",
+      "sha1": "48a3168d150c7045ac459149e6ac770d00dc7026"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_right.png",
+      "sha1": "8f3f23ff88192e6cc56172673680e4e669df894f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_top.png",
+      "sha1": "08c8eeae6beec6a456207704751ec28208d604ab"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
+      "sha1": "092d5e14d84f3a385176098541f41e75401ef91d"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/flat/minimap/square/pur_topright.png",
+      "sha1": "80ac51b7bbdd40d1982cbbe8d8644a0c4bbefd97"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/container/htoolbar_begin.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/container/htoolbar_end.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/container/htoolbar_inner.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/container/unkown.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/container/vtoolbar_begin.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/container/vtoolbar_end.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/container/vtoolbar_inner.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/control/flat_button_disabled.png",
+      "sha1": "3fb7b045af7025d3b3c1c73dfe99aa98c5afa349"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/control/flat_button_hover.png",
+      "sha1": "d0fb0f02be9a20802d2edd61d42cd118d569feb0"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/control/flat_button_off.png",
+      "sha1": "8845ef2497b49a5ba2b9bb8b9c29f661340779d5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/control/flat_button_on.png",
+      "sha1": "ff5f9a96d6dbce7ed57d6e490507b767784f8dbe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/control/flat_toggle_disabled.png",
+      "sha1": "3fb7b045af7025d3b3c1c73dfe99aa98c5afa349"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/control/flat_toggle_hover.png",
+      "sha1": "5941856d3cc6571af5bb4adc91c3d8805540f1ef"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/control/flat_toggle_off.png",
+      "sha1": "8845ef2497b49a5ba2b9bb8b9c29f661340779d5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/control/flat_toggle_on.png",
+      "sha1": "ff5f9a96d6dbce7ed57d6e490507b767784f8dbe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/about.png",
+      "sha1": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/actions.png",
+      "sha1": "cb6eb07a73fecd099c8d297b19d0b3c7b0a67fea"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/alert.png",
+      "sha1": "a6952cd5baa86b80e58ce3ca8646400b3a633874"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/animals.png",
+      "sha1": "cc47effb393456ba9caf6812ef9e405798363fc4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/automap.png",
+      "sha1": "2c3ca7b9e1f8f58c346a6d9593d7e4c54d240b94"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/biome.png",
+      "sha1": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/browser.png",
+      "sha1": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/caves.png",
+      "sha1": "e5d9a4536c50b4ab083b959c2371e3a972847878"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/close.png",
+      "sha1": "9f7f296e3f925badbe24374d03416dcd176a7441"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/colorpalette.png",
+      "sha1": "8a27bfe28afc655aeedb1604a0a2adc5eee3c9c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/day.png",
+      "sha1": "f15cbf3291d688485365ebf941c6a12311e670f4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/delete.png",
+      "sha1": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/disable.png",
+      "sha1": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/follow.png",
+      "sha1": "5e70fff832cfdfe4c098a93c65ef56c396fab650"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/grid.png",
+      "sha1": "2d739eb170cb43d3576b210e787c9a4cb2c9c37e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/keys.png",
+      "sha1": "1d89290ae4fafaaeefe5e68373a25ac1e99b6b56"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/layers.png",
+      "sha1": "1c59e7f6aa4094ee62237f55d3f367a8767c7088"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/monsters.png",
+      "sha1": "f9816a2cf0e83d57f4793a1d158ce19a27e56bc1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/night.png",
+      "sha1": "adba60e13b75c5742a39853838b33cfd96e2443f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/options.png",
+      "sha1": "b0f1d069a426f58ce80baa80fbd133ee7e7ef5c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/pets.png",
+      "sha1": "0ac996b8ea912fcc9129cbafe6997d650ba72aec"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/players.png",
+      "sha1": "440edb7aee6df81c9fcf4b38f969dd6134e7dbfe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/reset.png",
+      "sha1": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/savemap.png",
+      "sha1": "fc2680c3c4a18f53b4caa3e21cdaa6a5fecb92f7"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/search.png",
+      "sha1": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/server.png",
+      "sha1": "f93f98b8561edae9cf52c96081e72b242e28ed66"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/topo.png",
+      "sha1": "61f6b3c5c7983593a78f9771b1f4b3655415c3c5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/villagers.png",
+      "sha1": "eca466262a18b31133c82e99a74a47e113fb7ea1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/waypoints.png",
+      "sha1": "6c69b5fa962a63c8ad719d0cb8bd54cac9f23e50"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/zoomin.png",
+      "sha1": "ef193e18d233c3d0a85998717a196054bd311a2a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/icon/zoomout.png",
+      "sha1": "bb413e26fd96c3075e08d6e4382fcb91233a12bf"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottom.png",
+      "sha1": "d04c3427fbef1927b99e7a33d62e18158f66ba10"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomleft.png",
+      "sha1": "7e203f344f20ff298460d16b15e59645a4042da5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomright.png",
+      "sha1": "f3cdf8821430c318614c8323fcc6426af64b811b"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_compass_point.png",
+      "sha1": "11448277b2f997fc2352607501b11e179331a963"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_left.png",
+      "sha1": "9e8f4e92488d5917b945d1fd1ec662836f43e80e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_right.png",
+      "sha1": "6ba6bede25a32eb9a442e1e2f4deb48ef23572ee"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_top.png",
+      "sha1": "a17fcfdb1ee9700270c3aa2580a8d0c0eedd2a58"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_topleft.png",
+      "sha1": "279b992f8ebb31d616a33c0a6a5d0bae6a0b039b"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/flat_topright.png",
+      "sha1": "6b32d18133df423e22559dced2856b2459b14a71"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/minimap/square/pur_bottom.png",
+      "sha1": "a3884c4387c24963f666f51032e1766d87697bea"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/_flat/vault.theme2.json",
+      "sha1": "b6806f7bd1bacad3c007ebd5a708d32538b85744"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/container/htoolbar_begin.png",
+      "sha1": "d0c7d88489ca168f544a483dc718ab70579d02c3"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/container/htoolbar_end.png",
+      "sha1": "f99713715e76e55979b382162f7a9827a35437d6"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/container/htoolbar_inner.png",
+      "sha1": "3502c9f3f38f3c5f39dfee8c379e6418a4f2ca37"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/container/vtoolbar_begin.png",
+      "sha1": "5aa0db604f7e6dd4791cb7849f6e45ffce2ec00a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/container/vtoolbar_end.png",
+      "sha1": "558e4839b4c015eae32448542e9b5065c29a3878"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/container/vtoolbar_inner.png",
+      "sha1": "28d7cffa96675dd2957360322279b7772d308357"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/control/flat_button_disabled.png",
+      "sha1": "3fb7b045af7025d3b3c1c73dfe99aa98c5afa349"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/control/flat_button_hover.png",
+      "sha1": "d0fb0f02be9a20802d2edd61d42cd118d569feb0"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/control/flat_button_off.png",
+      "sha1": "8845ef2497b49a5ba2b9bb8b9c29f661340779d5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/control/flat_button_on.png",
+      "sha1": "ff5f9a96d6dbce7ed57d6e490507b767784f8dbe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/control/flat_toggle_disabled.png",
+      "sha1": "3fb7b045af7025d3b3c1c73dfe99aa98c5afa349"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/control/flat_toggle_hover.png",
+      "sha1": "5941856d3cc6571af5bb4adc91c3d8805540f1ef"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/control/flat_toggle_off.png",
+      "sha1": "8845ef2497b49a5ba2b9bb8b9c29f661340779d5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/control/flat_toggle_on.png",
+      "sha1": "ff5f9a96d6dbce7ed57d6e490507b767784f8dbe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/about.png",
+      "sha1": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/actions.png",
+      "sha1": "cb6eb07a73fecd099c8d297b19d0b3c7b0a67fea"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/alert.png",
+      "sha1": "a6952cd5baa86b80e58ce3ca8646400b3a633874"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/animals.png",
+      "sha1": "cc47effb393456ba9caf6812ef9e405798363fc4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/automap.png",
+      "sha1": "2c3ca7b9e1f8f58c346a6d9593d7e4c54d240b94"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/biome.png",
+      "sha1": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/browser.png",
+      "sha1": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/caves.png",
+      "sha1": "e5d9a4536c50b4ab083b959c2371e3a972847878"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/close.png",
+      "sha1": "9f7f296e3f925badbe24374d03416dcd176a7441"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/colorpalette.png",
+      "sha1": "8a27bfe28afc655aeedb1604a0a2adc5eee3c9c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/day.png",
+      "sha1": "f15cbf3291d688485365ebf941c6a12311e670f4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/delete.png",
+      "sha1": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/disable.png",
+      "sha1": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/follow.png",
+      "sha1": "5e70fff832cfdfe4c098a93c65ef56c396fab650"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/grid.png",
+      "sha1": "2d739eb170cb43d3576b210e787c9a4cb2c9c37e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/keys.png",
+      "sha1": "1d89290ae4fafaaeefe5e68373a25ac1e99b6b56"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/layers.png",
+      "sha1": "1c59e7f6aa4094ee62237f55d3f367a8767c7088"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/monsters.png",
+      "sha1": "f9816a2cf0e83d57f4793a1d158ce19a27e56bc1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/night.png",
+      "sha1": "adba60e13b75c5742a39853838b33cfd96e2443f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/options.png",
+      "sha1": "b0f1d069a426f58ce80baa80fbd133ee7e7ef5c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/pets.png",
+      "sha1": "0ac996b8ea912fcc9129cbafe6997d650ba72aec"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/players.png",
+      "sha1": "440edb7aee6df81c9fcf4b38f969dd6134e7dbfe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/reset.png",
+      "sha1": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/savemap.png",
+      "sha1": "fc2680c3c4a18f53b4caa3e21cdaa6a5fecb92f7"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/search.png",
+      "sha1": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/server.png",
+      "sha1": "f93f98b8561edae9cf52c96081e72b242e28ed66"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/topo.png",
+      "sha1": "61f6b3c5c7983593a78f9771b1f4b3655415c3c5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/villagers.png",
+      "sha1": "eca466262a18b31133c82e99a74a47e113fb7ea1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/waypoints.png",
+      "sha1": "6c69b5fa962a63c8ad719d0cb8bd54cac9f23e50"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/zoomin.png",
+      "sha1": "ef193e18d233c3d0a85998717a196054bd311a2a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/icon/zoomout.png",
+      "sha1": "bb413e26fd96c3075e08d6e4382fcb91233a12bf"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_bottom.png",
+      "sha1": "d04c3427fbef1927b99e7a33d62e18158f66ba10"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_bottomleft.png",
+      "sha1": "7e203f344f20ff298460d16b15e59645a4042da5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_bottomright.png",
+      "sha1": "f3cdf8821430c318614c8323fcc6426af64b811b"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_compass_point.png",
+      "sha1": "11448277b2f997fc2352607501b11e179331a963"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_left.png",
+      "sha1": "9e8f4e92488d5917b945d1fd1ec662836f43e80e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_right.png",
+      "sha1": "6ba6bede25a32eb9a442e1e2f4deb48ef23572ee"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_top.png",
+      "sha1": "a17fcfdb1ee9700270c3aa2580a8d0c0eedd2a58"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_topleft.png",
+      "sha1": "279b992f8ebb31d616a33c0a6a5d0bae6a0b039b"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/flat_topright.png",
+      "sha1": "6b32d18133df423e22559dced2856b2459b14a71"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/minimap/square/pur_bottom.png",
+      "sha1": "a3884c4387c24963f666f51032e1766d87697bea"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault/vault.theme2.json",
+      "sha1": "c980d6bc3fb8b11b144b69bc89f4d37a0502e637"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/container/htoolbar_begin.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/container/htoolbar_end.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/container/htoolbar_inner.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/container/unkown.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/container/vtoolbar_begin.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/container/vtoolbar_end.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/container/vtoolbar_inner.png",
+      "sha1": "399f66df5afabcdccbf2bb4ece0693199f9df14a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/control/flat_button_disabled.png",
+      "sha1": "3fb7b045af7025d3b3c1c73dfe99aa98c5afa349"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/control/flat_button_hover.png",
+      "sha1": "d0fb0f02be9a20802d2edd61d42cd118d569feb0"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/control/flat_button_off.png",
+      "sha1": "8845ef2497b49a5ba2b9bb8b9c29f661340779d5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/control/flat_button_on.png",
+      "sha1": "ff5f9a96d6dbce7ed57d6e490507b767784f8dbe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/control/flat_toggle_disabled.png",
+      "sha1": "3fb7b045af7025d3b3c1c73dfe99aa98c5afa349"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/control/flat_toggle_hover.png",
+      "sha1": "5941856d3cc6571af5bb4adc91c3d8805540f1ef"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/control/flat_toggle_off.png",
+      "sha1": "8845ef2497b49a5ba2b9bb8b9c29f661340779d5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/control/flat_toggle_on.png",
+      "sha1": "ff5f9a96d6dbce7ed57d6e490507b767784f8dbe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/about.png",
+      "sha1": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/actions.png",
+      "sha1": "cb6eb07a73fecd099c8d297b19d0b3c7b0a67fea"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/alert.png",
+      "sha1": "a6952cd5baa86b80e58ce3ca8646400b3a633874"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/animals.png",
+      "sha1": "cc47effb393456ba9caf6812ef9e405798363fc4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/automap.png",
+      "sha1": "2c3ca7b9e1f8f58c346a6d9593d7e4c54d240b94"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/biome.png",
+      "sha1": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/browser.png",
+      "sha1": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/caves.png",
+      "sha1": "e5d9a4536c50b4ab083b959c2371e3a972847878"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/close.png",
+      "sha1": "9f7f296e3f925badbe24374d03416dcd176a7441"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/colorpalette.png",
+      "sha1": "8a27bfe28afc655aeedb1604a0a2adc5eee3c9c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/day.png",
+      "sha1": "f15cbf3291d688485365ebf941c6a12311e670f4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/delete.png",
+      "sha1": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/disable.png",
+      "sha1": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/follow.png",
+      "sha1": "5e70fff832cfdfe4c098a93c65ef56c396fab650"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/grid.png",
+      "sha1": "2d739eb170cb43d3576b210e787c9a4cb2c9c37e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/keys.png",
+      "sha1": "1d89290ae4fafaaeefe5e68373a25ac1e99b6b56"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/layers.png",
+      "sha1": "1c59e7f6aa4094ee62237f55d3f367a8767c7088"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/monsters.png",
+      "sha1": "f9816a2cf0e83d57f4793a1d158ce19a27e56bc1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/night.png",
+      "sha1": "adba60e13b75c5742a39853838b33cfd96e2443f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/options.png",
+      "sha1": "b0f1d069a426f58ce80baa80fbd133ee7e7ef5c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/pets.png",
+      "sha1": "0ac996b8ea912fcc9129cbafe6997d650ba72aec"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/players.png",
+      "sha1": "440edb7aee6df81c9fcf4b38f969dd6134e7dbfe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/reset.png",
+      "sha1": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/savemap.png",
+      "sha1": "fc2680c3c4a18f53b4caa3e21cdaa6a5fecb92f7"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/search.png",
+      "sha1": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/server.png",
+      "sha1": "f93f98b8561edae9cf52c96081e72b242e28ed66"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/topo.png",
+      "sha1": "61f6b3c5c7983593a78f9771b1f4b3655415c3c5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/villagers.png",
+      "sha1": "eca466262a18b31133c82e99a74a47e113fb7ea1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/waypoints.png",
+      "sha1": "6c69b5fa962a63c8ad719d0cb8bd54cac9f23e50"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/zoomin.png",
+      "sha1": "ef193e18d233c3d0a85998717a196054bd311a2a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/icon/zoomout.png",
+      "sha1": "bb413e26fd96c3075e08d6e4382fcb91233a12bf"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_bottom.png",
+      "sha1": "d04c3427fbef1927b99e7a33d62e18158f66ba10"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_bottomleft.png",
+      "sha1": "7e203f344f20ff298460d16b15e59645a4042da5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_bottomright.png",
+      "sha1": "f3cdf8821430c318614c8323fcc6426af64b811b"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_compass_point.png",
+      "sha1": "11448277b2f997fc2352607501b11e179331a963"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_left.png",
+      "sha1": "9e8f4e92488d5917b945d1fd1ec662836f43e80e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_right.png",
+      "sha1": "6ba6bede25a32eb9a442e1e2f4deb48ef23572ee"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_top.png",
+      "sha1": "a17fcfdb1ee9700270c3aa2580a8d0c0eedd2a58"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_topleft.png",
+      "sha1": "279b992f8ebb31d616a33c0a6a5d0bae6a0b039b"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/flat_topright.png",
+      "sha1": "6b32d18133df423e22559dced2856b2459b14a71"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/minimap/square/pur_bottom.png",
+      "sha1": "a3884c4387c24963f666f51032e1766d87697bea"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/vault_flat/vault.theme2.json",
+      "sha1": "b6806f7bd1bacad3c007ebd5a708d32538b85744"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/container/htoolbar_begin.png",
+      "sha1": "8c8ad20540a1ed48e964a3387f618a7991298dec"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/container/htoolbar_end.png",
+      "sha1": "afdcfb9cfda9d0a9529871eceb7e0f60d2e39cff"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/container/htoolbar_inner.png",
+      "sha1": "655197473f442634460d56f82dda1d3bed5f1114"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/container/vtoolbar_begin.png",
+      "sha1": "126e3e49723db225d11c0576f50c4828c28d2804"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/container/vtoolbar_end.png",
+      "sha1": "d060fba61fb5aa06bfc6a9f280b98630a4198a06"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/container/vtoolbar_inner.png",
+      "sha1": "9370965c434a83ad18daa9d84d60ff89c863549e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/control/button_disabled.png",
+      "sha1": "d5f808f47e9ea5cd3fe6374b6cc43dfa49919f54"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/control/button_hover.png",
+      "sha1": "6b475980e136f82260cb169d8f5a7c8308971abf"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/control/button_off.png",
+      "sha1": "c22401ab57373425108ad32fe3f5243249dd8c70"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/control/button_on.png",
+      "sha1": "6b475980e136f82260cb169d8f5a7c8308971abf"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/control/toggle_disabled.png",
+      "sha1": "81c2cbfba5f21ef8d8de74439ff6080ea55d8fa6"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/control/toggle_hover.png",
+      "sha1": "10424fdeff062f6501ac7feaba286f524b4b10fe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/control/toggle_off.png",
+      "sha1": "10424fdeff062f6501ac7feaba286f524b4b10fe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/control/toggle_on.png",
+      "sha1": "962f2d13153a06d30855ae91e5af89f3cce79dc1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/about.png",
+      "sha1": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/actions.png",
+      "sha1": "cb6eb07a73fecd099c8d297b19d0b3c7b0a67fea"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/alert.png",
+      "sha1": "a6952cd5baa86b80e58ce3ca8646400b3a633874"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/animals.png",
+      "sha1": "cc47effb393456ba9caf6812ef9e405798363fc4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/automap.png",
+      "sha1": "2c3ca7b9e1f8f58c346a6d9593d7e4c54d240b94"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/biome.png",
+      "sha1": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/browser.png",
+      "sha1": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/caves.png",
+      "sha1": "e5d9a4536c50b4ab083b959c2371e3a972847878"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/close.png",
+      "sha1": "9f7f296e3f925badbe24374d03416dcd176a7441"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/colorpalette.png",
+      "sha1": "8a27bfe28afc655aeedb1604a0a2adc5eee3c9c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/day.png",
+      "sha1": "f15cbf3291d688485365ebf941c6a12311e670f4"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/delete.png",
+      "sha1": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/disable.png",
+      "sha1": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/follow.png",
+      "sha1": "5e70fff832cfdfe4c098a93c65ef56c396fab650"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/grid.png",
+      "sha1": "2d739eb170cb43d3576b210e787c9a4cb2c9c37e"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/keys.png",
+      "sha1": "5ba805ca5a138c679f011fc45e35364a3d317c7f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/layers.png",
+      "sha1": "1c59e7f6aa4094ee62237f55d3f367a8767c7088"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/monsters.png",
+      "sha1": "f9816a2cf0e83d57f4793a1d158ce19a27e56bc1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/night.png",
+      "sha1": "adba60e13b75c5742a39853838b33cfd96e2443f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/options.png",
+      "sha1": "b0f1d069a426f58ce80baa80fbd133ee7e7ef5c9"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/pets.png",
+      "sha1": "0ac996b8ea912fcc9129cbafe6997d650ba72aec"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/players.png",
+      "sha1": "440edb7aee6df81c9fcf4b38f969dd6134e7dbfe"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/reset.png",
+      "sha1": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/savemap.png",
+      "sha1": "fc2680c3c4a18f53b4caa3e21cdaa6a5fecb92f7"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/search.png",
+      "sha1": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/topo.png",
+      "sha1": "a82e11f33b94584e484422a9ccb6fda34c5c0693"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/villagers.png",
+      "sha1": "eca466262a18b31133c82e99a74a47e113fb7ea1"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/waypoints.png",
+      "sha1": "6c69b5fa962a63c8ad719d0cb8bd54cac9f23e50"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/zoomin.png",
+      "sha1": "ef193e18d233c3d0a85998717a196054bd311a2a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/icon/zoomout.png",
+      "sha1": "bb413e26fd96c3075e08d6e4382fcb91233a12bf"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/circle/compass_point.png",
+      "sha1": "9494431cf231113f2de1088319ce5c5732f2875c"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/circle/mask_256.png",
+      "sha1": "da3be616803ff558b8980ccac8ba77d64fe9b39a"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/circle/mask_512.png",
+      "sha1": "65e0f984f11c10b015d22126d90345e647400875"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/circle/rim_256.png",
+      "sha1": "97b6ee72d45e9c815ca705b6b462cd5613995105"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/circle/rim_512.png",
+      "sha1": "15f8f779170bc7873f8cc0328de9af54df3f5273"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/pur_bottom.png",
+      "sha1": "bc3ad36ae2cd0cd0e3f7780a64bd90f0019612f3"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/pur_bottomleft.png",
+      "sha1": "51195c44266e5549546cbc72b8d51091540d99c5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/pur_bottomright.png",
+      "sha1": "0a63ca40100ed66e626b8a9555f1e68abb58ce9d"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/pur_left.png",
+      "sha1": "ff56e83a868ef8a8ee31a2c88634b78bf6876b14"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/pur_right.png",
+      "sha1": "d476f2b1d468e0cc6e51bcd6cc9efe890b97a791"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/pur_top.png",
+      "sha1": "f59580c3b31e523abdcc434dc7f7b4d440d7903f"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/pur_topleft.png",
+      "sha1": "4c21df3ba57916bb7dd7c19d21f83de40f14d344"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/pur_topright.png",
+      "sha1": "47be97861409d394a0a75630ce606470920ff287"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_bottom.png",
+      "sha1": "01885a835b9c40c3ca20105b53ff9df8d6817f87"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_bottomleft.png",
+      "sha1": "14d1a6c730bead98afaf34453281e7b4dd3f89b5"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_bottomright.png",
+      "sha1": "a5d8a09534bc5802c0a9879e5aa8d84e08a4b4aa"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_compass_point.png",
+      "sha1": "7b32d63a8abf65610730bb38556769a79f6f1f55"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_left.png",
+      "sha1": "8a6f31b97441caf676d8617fdc30784733487017"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_right.png",
+      "sha1": "3a07e4339b7bae84856f1cad5ab4ee2459641103"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_top.png",
+      "sha1": "63d93de5fd42271d2bf47358159e1fc6583fd128"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_topleft.png",
+      "sha1": "d7fdd204f1492caa6085e46251446ce6c11bbf0b"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/minimap/square/vic_topright.png",
+      "sha1": "35e20d142caabc723798b89f55464495f2d63b9c"
+    },
+    {
+      "path": "overrides/journeymap/icon/theme/victorian_/victorian_.theme2.json",
+      "sha1": "160a6c138ef57a9e0f1fad7c9b4266cb5e5e1fa4"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~earth_orbit.config",
+      "sha1": "e622502a65d7d31a75e2475a547d2a33a1ff1e63"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~glacio.config",
+      "sha1": "2bc47ad675a39fbed0529850e91f3cfab76b726f"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~glacio_orbit.config",
+      "sha1": "211e022eb574cf167869d56c2ef5d25e68194cd8"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~mars.config",
+      "sha1": "9f4dba58011e345484b0a8b3e96503e32065f700"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~mars_orbit.config",
+      "sha1": "435489d24aba3749450b7600d567ad5cc812bf70"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~mercury.config",
+      "sha1": "cbe6d58fcb1ccf886af49283d96833d6a84bdcf4"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~mercury_orbit.config",
+      "sha1": "208b219ad8fa764a7183708a9c116b02097c657b"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~moon.config",
+      "sha1": "cd8d141af44ae966f42466a4f6297dccae25d01e"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~moon_orbit.config",
+      "sha1": "2d1267bfb14a2962a8e5df8f49f93c86e958887e"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~venus.config",
+      "sha1": "e7eabcd06885c954585e9fee708594f18bf46383"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ad_astra~venus_orbit.config",
+      "sha1": "a2b646e502748a97a3658ca7c26efa07a2c80743"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~adrastea.config",
+      "sha1": "62cbfa53d22836ee3789442c549b109e7a4bc5c7"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~adrastea_orbit.config",
+      "sha1": "a7a6ec77231f1139c843e619ede07c98be3c30a4"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~amalthea.config",
+      "sha1": "4ea5db92d56dfb28b0233885e8519663659fb8a1"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~amalthea_orbit.config",
+      "sha1": "95c5797b4737fdb45d6188cc34be88c2913f18d8"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~deimos.config",
+      "sha1": "776b893f46c7d25f4c75b203f7846f07ef75c821"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~deimos_orbit.config",
+      "sha1": "9711152c23d5e390c8b25be34696e4d536a8fe1b"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~jupiter.config",
+      "sha1": "81afce9c758521e7b3b9901785044b3285bb80a6"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~jupiter_orbit.config",
+      "sha1": "60ed11ee05c964233b08bebdd50c1ddce8f7a24a"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~metis.config",
+      "sha1": "0c72da6517ddd28e135fb7aaaef04469d4a40e16"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~metis_orbit.config",
+      "sha1": "3780edac9bc2049f7287a806f980319d80cbeffe"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~neptune.config",
+      "sha1": "90305684ce3df8b0e493da3e2a290490f74318e8"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~neptune_orbit.config",
+      "sha1": "bdc4d0ad5d4fabaae4b8543d4542eed3b3daeb73"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~phobos.config",
+      "sha1": "83e734c3173d6fdac43661a3f746144506cab6e5"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~phobos_orbit.config",
+      "sha1": "ddcc2959b44305057d603e34bfb93f2d8f61b907"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~saturn.config",
+      "sha1": "16d1cb68d819d0737f6eb870b3ed327b92d816f4"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~saturn_orbit.config",
+      "sha1": "fcb6845c226af793e89a70cc2701be83a35ac086"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~thebe.config",
+      "sha1": "099c16403a5f583cfee17d76822d9c7908302860"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~thebe_orbit.config",
+      "sha1": "0e013c152e1afd6ab1743dcaacbb4630ff51e8cb"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~uranus.config",
+      "sha1": "d59689d17fd7c443a92517d7d24b1138fe63fd08"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.adastraextra~uranus_orbit.config",
+      "sha1": "93c65d0cf25897c7b6e1711367e24ede86eb8b56"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.ae2~spatial_storage.config",
+      "sha1": "bbbd68ddf8f5fa4a472acb8aa583727c0bd8c094"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.bloodmagic~dungeon.config",
+      "sha1": "3c715238cd835651c5e38c550ea7758c5cea6c13"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.default.config",
+      "sha1": "aa9662d1b48bf8235322f7afad090e6225d460f7"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.global.config",
+      "sha1": "5f0c975f7357a5380618053a6ea1853be852ed65"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.minecraft~overworld.config",
+      "sha1": "acf967457cd543e071a48386bb609bf903351707"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.minecraft~the_end.config",
+      "sha1": "722bbf63c2c3b014f88d7bee5e213070319a32a5"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.minecraft~the_nether.config",
+      "sha1": "72d89bbc2744fe5bdc0b05535909f28b0bd391ba"
+    },
+    {
+      "path": "overrides/journeymap/server/6.0/journeymap.server.nuclearcraft~wasteland.config",
+      "sha1": "b76084b49aee5177f57a37c1a4d87380eb750c65"
+    },
+    {
+      "path": "overrides/kubejs/README.txt",
+      "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/example_block.png",
+      "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/example_item.png",
+      "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "overrides/kubejs/assets/nuclearcraft/textures/item/fuel/readme.txt",
+      "sha1": "0f734b03fccb4b0e7d96d907ccb6d2d65055070b"
+    },
+    {
+      "path": "overrides/kubejs/client_scripts/example.js",
+      "sha1": "dfe0a9197b4b80a3f1235afa6f825857d9ead98a"
+    },
+    {
+      "path": "overrides/kubejs/config/client.properties",
+      "sha1": "0fc270e24aff11e5833b243a1a9c2b1a339c0095"
+    },
+    {
+      "path": "overrides/kubejs/config/common.properties",
+      "sha1": "6328a154e26cadd4ca2709a15373d5b271a53fd5"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/example.js",
+      "sha1": "9530c6a8d3608ca41418ccb29a01d179d5c06bab"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
+      "sha1": "f9bf53e1db3289b469f19c8c4f2deb3413f3119e"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/kubejsstudio/tags/item.js",
+      "sha1": "f09ed15bfc190eb9dd9fd319f7caf35fece9d78b"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/example.js",
+      "sha1": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec"
+    },
+    {
+      "path": "overrides/kubejsstudio/intel-mc-1.20.1-loader-forge-kubejs-2001.6.5-build.26-rhino-2001.2.3-build.10.json",
+      "sha1": "231587e5c040fdc07fc1ef1e7ca7ed53dc13d34e"
+    },
+    {
+      "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_medium_53292b78ef.nbt",
+      "sha1": "4414d8d4cf8c61682db05645e1670351c46fd726"
+    },
+    {
+      "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_small_a451447977.nbt",
+      "sha1": "019eb5938830e09412d9f403015184f3b292362e"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "b79f5e6ed9bd6ad814e611f862c7195d8947620b"
+    },
+    {
+      "path": "overrides/patchouli_data.json",
+      "sha1": "231380073231d2812497b2be8d12dd38fef3ead8"
+    },
+    {
+      "path": "overrides/rhino.local.properties",
+      "sha1": "975d5452cdd473b4c4afe3d19a57b66e55201a9c"
+    },
+    {
+      "path": "overrides/servers.dat",
+      "sha1": "58960007c4cb2fd43f7852abd654a48aa6774793"
+    },
+    {
+      "path": "overrides/standalone icon.png",
+      "sha1": "ae2e07ad3bc9c03f48b109fc8b2040330b022ed5"
+    }
+  ]
+}

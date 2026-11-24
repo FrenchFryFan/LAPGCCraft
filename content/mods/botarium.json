@@ -1,0 +1,25 @@
+{
+  "name": "Botarium",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2u6LRnMa",
+      "slug": "botarium",
+      "versionId": "O7D6FTfW",
+      "versionNumber": "2.3.4",
+      "filename": "botarium-forge-1.20.1-2.3.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+      "sha512": "aa3530dde50966e47958690b02a343c4de3782d32ae3b2cb75b2155eebb76e172a292768d846b8d14a97bc9ebe18f1f655eaa3469fce13b2b4b15b16af0aba01",
+      "fileSize": 157633
+    }
+  },
+  "dependents": [
+    "3ufwT9JF"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

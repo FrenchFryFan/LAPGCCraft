@@ -1,0 +1,22 @@
+{
+  "name": "Pipez",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "443900",
+      "slug": "pipez",
+      "versionId": "6945379",
+      "versionNumber": "[FORGE][1.20.1] Pipez 1.20.1-1.2.26",
+      "filename": "pipez-forge-1.20.1-1.2.26.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6945/379/pipez-forge-1.20.1-1.2.26.jar",
+      "sha1": "1c32e2fff406f1e8ee6b0689eca257f6bc28e4c7",
+      "fileSize": 431615
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

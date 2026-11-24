@@ -1,0 +1,9 @@
+{
+  "name": "LAPGCcraft",
+  "version": "1.0.0",
+  "minecraft": "1.20.1",
+  "loader": "forge",
+  "loaderVersion": "47.4.28",
+  "channel": "release",
+  "formatVersion": 1
+}

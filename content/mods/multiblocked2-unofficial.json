@@ -1,0 +1,22 @@
+{
+  "name": "Multiblocked2 Unofficial",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1562745",
+      "slug": "multiblocked2-unofficial",
+      "versionId": "9748021",
+      "versionNumber": "multiblocked2-unofficial-1.20.1-1.0.41.d.fix1.jar",
+      "filename": "multiblocked2-unofficial-1.20.1-1.0.41.d.fix1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9748/21/multiblocked2-unofficial-1.20.1-1.0.41.d.fix1.jar",
+      "sha1": "51ca6506f6bcef65d096904f7ffb73214ab3425f",
+      "fileSize": 2499830
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

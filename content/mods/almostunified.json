@@ -1,0 +1,23 @@
+{
+  "name": "Almost Unified",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sdaSaQEz",
+      "slug": "almostunified",
+      "versionId": "9qc7KIeg",
+      "versionNumber": "1.20.1-0.11.0+forge",
+      "filename": "almostunified-forge-1.20.1-0.11.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sdaSaQEz/versions/9qc7KIeg/almostunified-forge-1.20.1-0.11.0.jar",
+      "sha1": "24943e5efe95c10367259a7bbd13874ca56ebf0a",
+      "sha512": "fcd7da643e84d7779e32af6916c6f8e808559d4724d565cc6d23fc96527f3bf50ea0b686eca1916c5dfeac146d836cf593a85374b6f04b60215f748aa00e3824",
+      "fileSize": 218740
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

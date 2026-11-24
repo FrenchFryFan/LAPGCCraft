@@ -1,0 +1,25 @@
+{
+  "name": "CoFH Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OWSRM4vD",
+      "slug": "cofh-core",
+      "versionId": "kglS53Hd",
+      "versionNumber": "11.0.2",
+      "filename": "cofh_core-1.20.1-11.0.2.56.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OWSRM4vD/versions/kglS53Hd/cofh_core-1.20.1-11.0.2.56.jar",
+      "sha1": "6f7c0056fece31bf393df450d79482810ed444af",
+      "sha512": "5a62bc6dcaaf3cf77234f3e0559eb6d2ec7db05b39feeba56dbdd46f3378aec6d97bd2078e220fe33891384abc40e1a705affe9d77ae4e35cf60185e07c11a73",
+      "fileSize": 1509649
+    }
+  },
+  "dependents": [
+    "Xvg6q5Wp"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

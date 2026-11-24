@@ -1,0 +1,23 @@
+{
+  "name": "ImmediatelyFast",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "5ZwdcRci",
+      "slug": "immediatelyfast",
+      "versionId": "rvsLEEZU",
+      "versionNumber": "1.5.5+1.20.4-forge",
+      "filename": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rvsLEEZU/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
+      "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
+      "sha512": "8fab0605880f6b3875dc6d9d7bc8d69612a3e61a0bfc5adeac3240248715042f04885a09bc4d29383ab809cfc536dff84c6150af56ebd8f08128a1c42909c323",
+      "fileSize": 532063
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ad Astra Extra",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "957097",
+      "slug": "ad-astra-extra",
+      "versionId": "5037401",
+      "versionNumber": "1.2.3 (Forge 1.20.1)",
+      "filename": "adastraextra-forge-1.20.1-1.2.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5037/401/adastraextra-forge-1.20.1-1.2.3.jar",
+      "sha1": "6b28e904f2cbe19475b91c8d2abe69bd6b368a83",
+      "fileSize": 619360
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

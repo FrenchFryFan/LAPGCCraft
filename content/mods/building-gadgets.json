@@ -1,0 +1,22 @@
+{
+  "name": "Building Gadgets",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "298187",
+      "slug": "building-gadgets",
+      "versionId": "6850495",
+      "versionNumber": "BuildingGadgets2-1.0.8",
+      "filename": "buildinggadgets2-1.0.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6850/495/buildinggadgets2-1.0.8.jar",
+      "sha1": "d06a806e8ca84a9e96a69c32da4b43226a51e0c9",
+      "fileSize": 3833683
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

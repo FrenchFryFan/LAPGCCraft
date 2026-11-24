@@ -1,0 +1,26 @@
+{
+  "name": "CodeChicken Lib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2gq0ALnz",
+      "slug": "codechicken-lib",
+      "versionId": "5zfJEMhM",
+      "versionNumber": "4.4.0.528",
+      "filename": "CodeChickenLib-1.20.1-4.4.0.528-universal.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2gq0ALnz/versions/5zfJEMhM/CodeChickenLib-1.20.1-4.4.0.528-universal.jar",
+      "sha1": "66c614b047414e3cfcd69ff7f001b7033c5813c6",
+      "sha512": "ad518e3f169cbab5ba1aa421a12b8eed51ffffac7371722f20c6e5d8a042e5f16a466524f8cebef889ce84bf479d0a71e28e23d1a1d1a41d95dcefde18813782",
+      "fileSize": 1473536
+    }
+  },
+  "dependents": [
+    "iFDWVIFV",
+    "nBqivi8H"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

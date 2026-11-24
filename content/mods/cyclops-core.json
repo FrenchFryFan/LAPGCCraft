@@ -1,0 +1,27 @@
+{
+  "name": "Cyclops Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "232758",
+      "slug": "cyclops-core",
+      "versionId": "9607385",
+      "versionNumber": "CyclopsCore-1.20.1-1.22.5.jar",
+      "filename": "CyclopsCore-1.20.1-1.22.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9607/385/CyclopsCore-1.20.1-1.22.5.jar",
+      "sha1": "cc9bc5abc9d9a65228a0462577f529ea1d6664a6",
+      "fileSize": 924124
+    }
+  },
+  "dependents": [
+    "232758",
+    "236307",
+    "247007",
+    "74610"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

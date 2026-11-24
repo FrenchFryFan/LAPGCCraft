@@ -1,0 +1,24 @@
+{
+  "name": "RFTools Base",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "326041",
+      "slug": "rftools-base",
+      "versionId": "9753002",
+      "versionNumber": "RFToolsBase - 1.20-5.0.8",
+      "filename": "rftoolsbase-1.20-5.0.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9753/2/rftoolsbase-1.20-5.0.8.jar",
+      "sha1": "897e1641d7626bd597faadfa14cf0228514d0106",
+      "fileSize": 418676
+    }
+  },
+  "dependents": [
+    "260912"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

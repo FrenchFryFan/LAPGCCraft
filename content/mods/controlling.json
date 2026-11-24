@@ -1,0 +1,22 @@
+{
+  "name": "Controlling",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "250398",
+      "slug": "controlling",
+      "versionId": "4646682",
+      "versionNumber": "Controlling-forge-1.20.1-12.0.2.jar",
+      "filename": "Controlling-forge-1.20.1-12.0.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar",
+      "sha1": "f6d3cdd3ec68c5590cf5b2e89c38dbf031824bfd",
+      "fileSize": 115280
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

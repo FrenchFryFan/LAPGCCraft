@@ -1,0 +1,22 @@
+{
+  "name": "Extended Crafting: Expanded Reforked",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1531359",
+      "slug": "extended-crafting-expanded-reforked",
+      "versionId": "9062683",
+      "versionNumber": "ExtendedCrafting-1.20.1-6.1.9.jar",
+      "filename": "ExtendedCrafting-1.20.1-6.1.9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9062/683/ExtendedCrafting-1.20.1-6.1.9.jar",
+      "sha1": "c3aff89c2821f3a2bfd9d46879d3641aee73614d",
+      "fileSize": 788722
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

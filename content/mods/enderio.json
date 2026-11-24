@@ -1,0 +1,23 @@
+{
+  "name": "Ender IO",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "49ZofO4f",
+      "slug": "enderio",
+      "versionId": "nJnmg29v",
+      "versionNumber": "6.2.18-beta",
+      "filename": "EnderIO-1.20.1-6.2.18-beta-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/49ZofO4f/versions/nJnmg29v/EnderIO-1.20.1-6.2.18-beta-all.jar",
+      "sha1": "33587f98f2d96507de0e9d2f57f5ab35328ace7d",
+      "sha512": "343b5b06a5dd2d8c0d08743229a153d75d19f6587f6a6b4d3a26873cf754d24c2f9e8a113e168f4b1258a10f132d9f820feb6a030bd111ab5377916a64dcb9dc",
+      "fileSize": 8086393
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

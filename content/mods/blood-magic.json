@@ -1,0 +1,25 @@
+{
+  "name": "Blood Magic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PbNc6qBY",
+      "slug": "blood-magic",
+      "versionId": "1YxwR16I",
+      "versionNumber": "3.3.8-50",
+      "filename": "BloodMagic-1.18-1.20.1-3.3.8-50.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PbNc6qBY/versions/1YxwR16I/BloodMagic-1.18-1.20.1-3.3.8-50.jar",
+      "sha1": "2b5380bcfebcd475c3389c73cc45e0000692a76a",
+      "sha512": "4af5f5bce778c23b7ea32d451daf0c96b2eedee45ccf93220ad159e3ed308e57b2eb48fbef5caca158b5e74367b18cca8b645ec3d9dc7d78d19f5cd85c8b350b",
+      "fileSize": 15079434
+    }
+  },
+  "dependents": [
+    "934206"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clumps",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "256717",
+      "slug": "clumps",
+      "versionId": "5278538",
+      "versionNumber": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "filename": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+      "fileSize": 20299
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

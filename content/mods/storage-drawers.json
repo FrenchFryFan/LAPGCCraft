@@ -1,0 +1,22 @@
+{
+  "name": "Storage Drawers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "223852",
+      "slug": "storage-drawers",
+      "versionId": "8997897",
+      "versionNumber": "Storage Drawers-1.20.1-forge-12.15.1",
+      "filename": "StorageDrawers-forge-1.20.1-12.15.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8997/897/StorageDrawers-forge-1.20.1-12.15.1.jar",
+      "sha1": "7ccbbd9b26296e58069db9926cb3a0e40f24927a",
+      "fileSize": 1205432
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

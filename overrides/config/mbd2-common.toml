@@ -1,0 +1,19 @@
+#Whether search for recipes asynchronously.
+asyncRecipeSearching = true
+#Whether use vbo for preview page rendering.
+useVBO = true
+#Duration of the multiblock in-world preview (s)
+#Range: 1 ~ 999
+multiblockPreviewDuration = 10
+#Duration of the multiblock in-world pattern error position (s)
+#Range: 1 ~ 999
+multiblockPatternErrorPosDuration = 10
+#Blocks placed per work operation when using slow multiblock auto-build.
+#Range: > 1
+slowBuildBlocksPerTick = 5
+#Server ticks between work operations when using slow multiblock auto-build.
+#Range: > 1
+slowBuildWorkInterval = 1
+#Whether multiblock auto-build checks the complete structure space before placing.
+autoBuildCheckSpace = false
+

@@ -1,0 +1,22 @@
+{
+  "name": "KubeJS Addon - Blood Magic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "934206",
+      "slug": "kubejs-addon-blood-magic",
+      "versionId": "5492965",
+      "versionNumber": "KubeJS Blood Magic-1.0.2-1.20.1.jar",
+      "filename": "KubeJS Blood Magic-1.0.2-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5492/965/KubeJS%20Blood%20Magic-1.0.2-1.20.1.jar",
+      "sha1": "a17b10eddea3a5728c0ba25fd98263c3f0c7bebd",
+      "fileSize": 11731
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

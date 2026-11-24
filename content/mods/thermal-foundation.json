@@ -1,0 +1,28 @@
+{
+  "name": "Thermal Foundation",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Xvg6q5Wp",
+      "slug": "thermal-foundation",
+      "versionId": "44ilyZbi",
+      "versionNumber": "11.0.6",
+      "filename": "thermal_foundation-1.20.1-11.0.6.70.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Xvg6q5Wp/versions/44ilyZbi/thermal_foundation-1.20.1-11.0.6.70.jar",
+      "sha1": "7c1fbd79c9bda7478560faa886eaadf0dd8d181f",
+      "sha512": "721908e776fa037c6b4e7a229f453b7e50efb62a935bfa67d4ee3ac68fbdf860e615b5cf54b0d2221504dd7c736e3d70659c3ea4a0abaa7e688ce5acdb98f87f",
+      "fileSize": 4549423
+    }
+  },
+  "dependents": [
+    "5beJoehw",
+    "MNgLmnvM",
+    "hmD6rrUJ",
+    "t8bmWGI2"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

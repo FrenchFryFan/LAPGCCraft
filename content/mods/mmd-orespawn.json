@@ -1,0 +1,22 @@
+{
+  "name": "MMD OreSpawn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "245586",
+      "slug": "mmd-orespawn",
+      "versionId": "9175609",
+      "versionNumber": "OreSpawn 4.1.0.120011 for Minecraft 1.20.1 (Forge)",
+      "filename": "OreSpawn-4.1.0.120011.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9175/609/OreSpawn-4.1.0.120011.jar",
+      "sha1": "59f8126ce670e344d1b0892f0c9b0b3071a0955a",
+      "fileSize": 998827
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

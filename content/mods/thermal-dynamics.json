@@ -1,0 +1,23 @@
+{
+  "name": "Thermal Dynamics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "t8bmWGI2",
+      "slug": "thermal-dynamics",
+      "versionId": "KaJ5ADIU",
+      "versionNumber": "11.0.1",
+      "filename": "thermal_dynamics-1.20.1-11.0.1.23.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/t8bmWGI2/versions/KaJ5ADIU/thermal_dynamics-1.20.1-11.0.1.23.jar",
+      "sha1": "7a9b3691dfca81e52d3e34738c6bc0a98b58bf93",
+      "sha512": "c670bd8ca004342561b40eefa9f7b35232c6fa725c5d4b23eafc3ba5dd9980f71debad1bb02f1d551a6d42011ab693d62796402d0630542a8a68455105d3224c",
+      "fileSize": 622948
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

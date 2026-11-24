@@ -1,0 +1,23 @@
+{
+  "name": "Modonomicon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "692GClaE",
+      "slug": "modonomicon",
+      "versionId": "J0YtwRxM",
+      "versionNumber": "1.20.1-1.79.3",
+      "filename": "modonomicon-1.20.1-forge-1.79.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/692GClaE/versions/J0YtwRxM/modonomicon-1.20.1-forge-1.79.3.jar",
+      "sha1": "bf2254dfd0d92345b7c7ed9082afb3e6b542ac2a",
+      "sha512": "c316dc1e00943f6916410fe43756d7198f87d699ec5c859f35f4f5b1755d7b62b1877a36a30be15c09fe9c00173fa1b396ac4124e1d47e3e0088d1838464e03e",
+      "fileSize": 2239688
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "EvilCraft",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "74610",
+      "slug": "evilcraft",
+      "versionId": "9631328",
+      "versionNumber": "EvilCraft-1.20.1-1.3.6.jar",
+      "filename": "EvilCraft-1.20.1-1.3.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9631/328/EvilCraft-1.20.1-1.3.6.jar",
+      "sha1": "97557a8049484559851197680620b749455bc435",
+      "fileSize": 2773366
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

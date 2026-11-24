@@ -1,0 +1,23 @@
+{
+  "name": "Ars Nouveau",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TKB6INcv",
+      "slug": "ars-nouveau",
+      "versionId": "Hw2aD01e",
+      "versionNumber": "4.12.7",
+      "filename": "ars_nouveau-1.20.1-4.12.7-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TKB6INcv/versions/Hw2aD01e/ars_nouveau-1.20.1-4.12.7-all.jar",
+      "sha1": "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170",
+      "sha512": "f3e3abf260fb3ef4c5b6b7324c055802135f82f4c550986f4e93b1a186c9b495cd8b6396ed89ab088b95e6176c0b9e290ccc69a528c521cd1bff19935ac36836",
+      "fileSize": 12430237
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

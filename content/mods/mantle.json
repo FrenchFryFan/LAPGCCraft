@@ -1,0 +1,25 @@
+{
+  "name": "Mantle",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Cg6Uc79H",
+      "slug": "mantle",
+      "versionId": "WWRIIbP8",
+      "versionNumber": "1.11.128",
+      "filename": "Mantle-1.20.1-1.11.128.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/WWRIIbP8/Mantle-1.20.1-1.11.128.jar",
+      "sha1": "602bcad5fcb9f7a49c57f897cf4abe28bc8261d7",
+      "sha512": "cf28e764f786b4ae5ad579e069848a5ef465f27d6bab013ea81cb663b18f2d8b6f7f80e5c663c3631b5513b81a4ad24e390aec8cb52eb89dfb2630f6259b0a6d",
+      "fileSize": 1668148
+    }
+  },
+  "dependents": [
+    "rxIIYO6c"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

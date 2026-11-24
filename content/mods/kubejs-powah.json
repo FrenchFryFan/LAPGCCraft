@@ -1,0 +1,22 @@
+{
+  "name": "KubeJS Powah",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "838378",
+      "slug": "kubejs-powah",
+      "versionId": "4920550",
+      "versionNumber": "kubejspowah-1.2.1.jar",
+      "filename": "kubejspowah-1.2.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4920/550/kubejspowah-1.2.1.jar",
+      "sha1": "ced4d7b2cc2b6e255d88fc2f3fbcecf13ee3f77f",
+      "fileSize": 7837
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Resourceful Config",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "M1953qlQ",
+      "slug": "resourceful-config",
+      "versionId": "DERs8u7v",
+      "versionNumber": "2.1.3",
+      "filename": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14",
+      "sha512": "2e05fe27529d00d7808a83dbe0c475a0fb96a20ebfd5c9767f4cc8dcd9a865e20a18de41fb9ed710e5cd2e0211c30303b43c1f22702af1d50ee7212ad83a54d3",
+      "fileSize": 136923
+    }
+  },
+  "dependents": [
+    "3ufwT9JF"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}
