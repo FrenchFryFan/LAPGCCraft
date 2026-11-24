@@ -1,44 +1,33 @@
-# Contributing to LAPGCCraft
+# contributing
 
-You can suggest changes to the pack. Jeremy reviews every change before it goes live. Nothing reaches the server or your friends' game until it's approved.
+want to change something in the pack? here's how.
 
-There are two ways to contribute. Pick whichever is easier for you.
+## easy way (just github)
 
-## Option A: Edit on GitHub (no extra software)
+1. go to the file you want to change, under `overrides/`
+2. click the pencil icon. it'll ask you to fork the repo, say yes
+3. make your change
+4. hit propose changes, then create pull request
+5. say what you changed
 
-Good for small changes, such as editing a config value or a KubeJS script.
+## packweave way (for adding mods or bigger stuff)
 
-1. Sign in to GitHub and open the file you want to change in the repo, under `overrides/`.
-2. Click the pencil icon (**Edit this file**). GitHub will make a copy of the repo under your account, called a **fork**.
-3. Make your change and write a short message describing it.
-4. Click **Propose changes**, then **Create pull request**.
-5. Fill in the template and submit.
+1. install packweave
+2. fork the repo on github
+3. in packweave, clone your fork and make a new branch
+4. make your change
+5. commit, push, then open a pull request on github
 
-## Option B: Use Packweave (for mod additions and bigger changes)
+## after you submit
 
-Packweave is the tool used to build the pack. Use it for adding or removing mods, or for larger changes.
+- the checker runs on its own. if it fails, read what it says, fix it, and push again to the same branch
+- the pack owner will approve it or ask for changes
+- server changes go live in about 5 min
+- client changes show up when you next launch the game, once a new version is out
 
-1. Install Packweave from packweave.com.
-2. On GitHub, click **Fork** at the top of the repo page. This creates your own copy.
-3. In Packweave, clone **your fork** (not the main repo) and make a new branch for your change.
-4. Make your change. Test it in singleplayer if you can.
-5. Commit the change and push the branch to your fork.
-6. On GitHub, open your fork and click **Compare & pull request**. Fill in the template and submit.
+## don't
 
-## What happens next
+- don't add jar files by hand. add mods through packweave
+- don't include saves, map data, or options files
 
-- An automatic check runs on your pull request. If it finds a problem, it tells you what to fix. Push a new commit to the same branch to update the pull request.
-- Jeremy reviews the change and either approves it or asks for changes.
-- Once approved, the server updates on its own within about 5 minutes. Restart-level changes wait until the server is empty, and players get a warning first.
-- Players receive client-side changes the next time they start the game, once Jeremy publishes a new pack version.
-
-## Rules
-
-- **Don't add mod jar files by hand.** Add mods through Packweave so they're recorded properly.
-- **Don't include personal files.** That means map data, saves, options, and server settings.
-- **Keep changes small and focused.** One change per pull request makes review easier.
-- **Test before you submit** if you can.
-
-## Stuck?
-
-Ask in Discord. Nobody will judge you for asking.
+stuck? ask in discord
