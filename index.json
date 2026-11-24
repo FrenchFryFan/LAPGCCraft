@@ -41,10 +41,6 @@
       "sha1": "18d172d555af6776586e6d641cd09db8b1870152"
     },
     {
-      "path": "content/mods/balm.json",
-      "sha1": "2eab151c78a60ec4b105ad020d6200b72c8dfa9b"
-    },
-    {
       "path": "content/mods/blood-magic.json",
       "sha1": "cced4231aaa1eec3dae62c82056b74e7075bab1f"
     },
@@ -165,10 +161,6 @@
       "sha1": "5785b9ea9e64532724dae753a4d601fe558c21c8"
     },
     {
-      "path": "content/mods/geckolib.json",
-      "sha1": "eea5ee59b90fe670b8831c4ac258f42a3bd82b1f"
-    },
-    {
       "path": "content/mods/gregtechceu-modern.json",
       "sha1": "3d2e472a4c22cf609f904e3239f5b00a5f742516"
     },
@@ -199,10 +191,6 @@
     {
       "path": "content/mods/kotlin-for-forge-2.json",
       "sha1": "cd6b56d82f74761a11724a184b5c1c066fade5fd"
-    },
-    {
-      "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "b904188d0ff3b32a4e58de6464740b0e2a399f71"
     },
     {
       "path": "content/mods/kubejs-addon-blood-magic.json",
@@ -403,10 +391,6 @@
     {
       "path": "content/mods/zume.json",
       "sha1": "5a251c38c3ab5f8b912011c398212e031a2248f7"
-    },
-    {
-      "path": "overrides/LAPGCCraft.zip",
-      "sha1": "ebdca2aa150f0779cb179954344fa0452171f665"
     },
     {
       "path": "overrides/config/Mekanism/client.toml",
@@ -1553,18 +1537,6 @@
       "sha1": "947602f077cfb9dd396be97db14baea774a843c9"
     },
     {
-      "path": "overrides/config/kubejsstudio/pending.json",
-      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
-    },
-    {
-      "path": "overrides/config/kubejsstudio/settings.json",
-      "sha1": "7247a3109de12ccbdb1856ceb2e34c4ecad785d0"
-    },
-    {
-      "path": "overrides/config/kubejsstudio/themes/example.json",
-      "sha1": "3ca7ab824db794b449a08e9d7eb095c78c00a6b8"
-    },
-    {
       "path": "overrides/config/ldlib2-client.toml",
       "sha1": "49a033ff97cc409df562b7c7f4ec12a54e3d1621"
     },
@@ -1827,234 +1799,6 @@
     {
       "path": "overrides/journeymap/config/6.0/journeymap.webmap.config",
       "sha1": "7104fb46df3a29ca260474a69b02001eac3f9df5"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net/.legacy_cache_cleaned",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/.legacy_cache_cleaned",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/2/0,-1.png",
-      "sha1": "9621a962210facf09dcadeafe279eb2ef5c030b3"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/2/0,0.png",
-      "sha1": "e1e334736a5de03a87cdb8a83d03510b7191c2fc"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/2/1,-1.png",
-      "sha1": "c188632220d51421250ab38b7f2aa02f483e5c77"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/2/1,0.png",
-      "sha1": "5296ebfbfc8747ced955dd5f4ee5e1c012ecbcff"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/3/0,-1.png",
-      "sha1": "5c6bdd30fac5b8faefeec919a7913d4d3bd0e2e2"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/3/0,0.png",
-      "sha1": "68ea56dbe893811743f98dfeae4ce493dd1acc63"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/3/1,-1.png",
-      "sha1": "79fad2b964f7f4143f085b316076ba43101c3f39"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/3/1,0.png",
-      "sha1": "3c5ee2f9f162ff4831aac308384a63379188b248"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/biome/0,-1.png",
-      "sha1": "053922bbad436b0b4643ab20689f88ec932497ce"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/biome/0,0.png",
-      "sha1": "3d1eb1e7bacb1354947104b5dc4db98991cae483"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/biome/1,-1.png",
-      "sha1": "c6c4be8190655ee71611022c4e0759c9be851a3d"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/biome/1,0.png",
-      "sha1": "59cc2e3fdb83746fbda62c1567627704be84d807"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/chunk_cache/c.0.-1.jmc",
-      "sha1": "0dce0c8e701d4d3f86cfe0c5d9464b4fc88771f7"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/chunk_cache/c.0.0.jmc",
-      "sha1": "123184b9fd7c4ddd82c06668d421fa209994cd7d"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/chunk_cache/c.1.-1.jmc",
-      "sha1": "e3dce650ad541a4306f842dd065f88b0694ae4c1"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/chunk_cache/c.1.0.jmc",
-      "sha1": "53a02469d16e65ade2101a2516add923261a9321"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/day/0,-1.png",
-      "sha1": "27730dbe6f4d8647ae91d959e45fbbc359802c11"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/day/0,0.png",
-      "sha1": "64c81ae1432dca58f20b1f0e8a81289f347ebe02"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/day/1,-1.png",
-      "sha1": "f47e639ad459b50c0d135f096406d9a9e5df110f"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/day/1,0.png",
-      "sha1": "8f846fe8372788de6e2455ed76063c12d38b26ef"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/night/0,-1.png",
-      "sha1": "ba122abf345725079fd0e9e70c7fffcc8f81db00"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/night/0,0.png",
-      "sha1": "e467712bdcbfe10117efbb1e5d50a6ec822aeedb"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/night/1,-1.png",
-      "sha1": "9826bb393ff2920632c5b5e056f23a0142e11872"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/night/1,0.png",
-      "sha1": "458bc35bfa7f8acb92f4aa7301dff3929e2a4d6f"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/topo/0,-1.png",
-      "sha1": "5793aa5404e165e10cbf336118a8d32a378dc397"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/topo/0,0.png",
-      "sha1": "1cbfb9409e30efbb1d4f264148c0d450afc949b1"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/topo/1,-1.png",
-      "sha1": "c0c6bffc79d91f26c24bee7fe8f8c3106ad3702f"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/overworld/topo/1,0.png",
-      "sha1": "1cb2e39d4f02ebf6062663c25bee00d5b8c15a40"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/WaypointData.dat",
-      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_00-50-19.dat",
-      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_00-58-42.dat",
-      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_02-50-15.dat",
-      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_17-42-58.dat",
-      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
-    },
-    {
-      "path": "overrides/journeymap/data/mp/breakvial~net_d177351f~7125~4ef9~9070~60dd19e22187/waypoints/backup/2026-11-23/WaypointData_backup_11-23-2026_18-23-34.dat",
-      "sha1": "5032dcf7fcaebe1f2b9bffbb68e46a2758b82f5a"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/.legacy_cache_cleaned",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/biome/-1,-1.png",
-      "sha1": "4b650b397b3370423e24c78d7d4dc5a1c9e15e12"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/biome/-1,0.png",
-      "sha1": "a1ed85e02abfac805b1b2fea9676a3ca5a28a86a"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/biome/0,-1.png",
-      "sha1": "f2fe17247111d123354d4709d20a7b7517f10fb1"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/biome/0,0.png",
-      "sha1": "e6075be28fb5fc9156ae8ec807b03796b3199550"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/chunk_cache/c.-1.-1.jmc",
-      "sha1": "df9166780ce639c06afa274579282d21fa2ec4cb"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/chunk_cache/c.-1.0.jmc",
-      "sha1": "4aab87f6c975775f9226b51bf8ae37dd0019ca18"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/chunk_cache/c.0.-1.jmc",
-      "sha1": "244260b5c104d91c134fbbf2a815c707e2859a02"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/chunk_cache/c.0.0.jmc",
-      "sha1": "bda944c58f9b9e8e6227b5c945387bc2dce52208"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/day/-1,-1.png",
-      "sha1": "cd6dcced4b4a27ff87c3eb0ad556edc92b15a212"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/day/-1,0.png",
-      "sha1": "4eaae75fd837a202c6efdce4366aeb673c225de5"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/day/0,-1.png",
-      "sha1": "709328c6d3672e3e153a87ad773baf54f28f47a3"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/day/0,0.png",
-      "sha1": "894023ae9732d00d8f17ff481982db0bcb12ac7c"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/night/-1,-1.png",
-      "sha1": "5c27b060902bbc6c05e6a80bb81e6d6371084c82"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/night/-1,0.png",
-      "sha1": "467d46dfc4992acc476043c9c4fda25184a88bf8"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/night/0,-1.png",
-      "sha1": "284d90e8240a566a44b7cf40c300fd81b96a35eb"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/night/0,0.png",
-      "sha1": "5751bc8ff7a2d610a06f0d468d9a3746b24a0a36"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/topo/-1,-1.png",
-      "sha1": "098c12e8ca5aef86e27bef110a020d9d37f25929"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/topo/-1,0.png",
-      "sha1": "e1e844b375c72500bb2de9d8fc5ce379819b5530"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/topo/0,-1.png",
-      "sha1": "071482a37044dd2d6a8cde87824ca1fefc8163d8"
-    },
-    {
-      "path": "overrides/journeymap/data/sp/Singleplayer Dev World/overworld/topo/0,0.png",
-      "sha1": "0119cc82b45b96e9770d5686d6a621b88ccdca48"
     },
     {
       "path": "overrides/journeymap/icon/entity/ad_astra/mob_mogler.png",
@@ -3673,10 +3417,6 @@
       "sha1": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec"
     },
     {
-      "path": "overrides/kubejsstudio/intel-mc-1.20.1-loader-forge-kubejs-2001.6.5-build.26-rhino-2001.2.3-build.10.json",
-      "sha1": "231587e5c040fdc07fc1ef1e7ca7ed53dc13d34e"
-    },
-    {
       "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_medium_53292b78ef.nbt",
       "sha1": "4414d8d4cf8c61682db05645e1670351c46fd726"
     },
@@ -3685,20 +3425,12 @@
       "sha1": "019eb5938830e09412d9f403015184f3b292362e"
     },
     {
-      "path": "overrides/options.txt",
-      "sha1": "b79f5e6ed9bd6ad814e611f862c7195d8947620b"
-    },
-    {
       "path": "overrides/patchouli_data.json",
       "sha1": "231380073231d2812497b2be8d12dd38fef3ead8"
     },
     {
       "path": "overrides/rhino.local.properties",
       "sha1": "975d5452cdd473b4c4afe3d19a57b66e55201a9c"
-    },
-    {
-      "path": "overrides/servers.dat",
-      "sha1": "58960007c4cb2fd43f7852abd654a48aa6774793"
     },
     {
       "path": "overrides/standalone icon.png",

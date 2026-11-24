@@ -1,6 +1,6 @@
 # LAPGCcraft
 
-**Minecraft 1.20.1 · Forge 47.4.28**, 98 mods (3 dependencies)
+**Minecraft 1.20.1 · Forge 47.4.28**, 95 mods (3 dependencies)
 
 ## Contents
 
@@ -13,7 +13,6 @@
 - [Applied Mekanistics](https://modrinth.com/project/applied-mekanistics) `1.4.3`
 - [Architectury API](https://modrinth.com/project/architectury-api) `9.2.14+forge`
 - [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `4.12.7`
-- [Balm](https://www.curseforge.com/projects/531761) `balm-forge-1.20.1-7.3.44.jar`
 - [Blood Magic](https://modrinth.com/project/blood-magic) `3.3.8-50`
 - [Bookshelf](https://modrinth.com/project/bookshelf-lib) `20.2.15`
 - [Botania](https://modrinth.com/project/botania) `1.20.1-456-forge`
@@ -44,7 +43,6 @@
 - [EyeJS: KubeJS Addon](https://www.curseforge.com/projects/1624204) `EyeJS-1.20.1-1.0.1.jar`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `6.0.1`
 - [Flux Networks](https://www.curseforge.com/projects/248020) `Flux-Networks-1.20.1-7.2.1`
-- [GeckoLib](https://www.curseforge.com/projects/388172) `geckolib-forge-1.20.1-4.8.4.jar`
 - [GregTech CEu Modern](https://modrinth.com/project/gregtechceu-modern) `mc1.20.1-7.5.3`
 - [GuideME](https://modrinth.com/project/guideme) `20.1.15`
 - [Hostile Neural Networks](https://modrinth.com/project/hostile-neural-networks) `5.3.3`
@@ -52,7 +50,6 @@
 - [Integrated Dynamics](https://www.curseforge.com/projects/236307) `IntegratedDynamics-1.20.1-1.31.5.jar`
 - [Jade 🔍](https://modrinth.com/project/jade) `11.13.3+forge`
 - [JourneyMap](https://modrinth.com/project/journeymap) `1.20.1-6.0.8+forge`
-- [Kotlin for Forge](https://www.curseforge.com/projects/351264) `Kotlin for Forge 4.13.0`
 - [KubeJS](https://modrinth.com/project/kubejs) `2001.6.5-build.26+forge`
 - [KubeJS Addon - Blood Magic](https://www.curseforge.com/projects/934206) `KubeJS Blood Magic-1.0.2-1.20.1.jar`
 - [KubeJS Powah](https://www.curseforge.com/projects/838378) `kubejspowah-1.2.1.jar`
