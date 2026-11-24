@@ -1494,7 +1494,7 @@
     },
     {
       "path": "overrides/config/hostilenetworks.cfg",
-      "sha1": "987be7e689e31bf424213a7d8282e7fbcc6b346a"
+      "sha1": "9b9147f315f73f9ee8fa644d9b8b14e239aaf54c"
     },
     {
       "path": "overrides/config/immediatelyfast.json",
@@ -3394,11 +3394,11 @@
     },
     {
       "path": "overrides/kubejs/config/client.properties",
-      "sha1": "0fc270e24aff11e5833b243a1a9c2b1a339c0095"
+      "sha1": "83249805d48385eff80ffdca3357f8208042cd9f"
     },
     {
       "path": "overrides/kubejs/config/common.properties",
-      "sha1": "6328a154e26cadd4ca2709a15373d5b271a53fd5"
+      "sha1": "18a3586374a680d8b9227b63d62f0abb4f5bdc1b"
     },
     {
       "path": "overrides/kubejs/server_scripts/example.js",
@@ -3425,12 +3425,16 @@
       "sha1": "019eb5938830e09412d9f403015184f3b292362e"
     },
     {
+      "path": "overrides/packweaver.jar",
+      "sha1": "1a353c36e230b309dfaa261e8f4f722275ca4892"
+    },
+    {
       "path": "overrides/patchouli_data.json",
       "sha1": "231380073231d2812497b2be8d12dd38fef3ead8"
     },
     {
       "path": "overrides/rhino.local.properties",
-      "sha1": "975d5452cdd473b4c4afe3d19a57b66e55201a9c"
+      "sha1": "7f2ddc58b3d34154ab3d057a3b32f0831725c503"
     },
     {
       "path": "overrides/standalone icon.png",
