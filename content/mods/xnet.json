@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "260912",
       "slug": "xnet",
-      "versionId": "9753620",
-      "versionNumber": "XNet - 1.20-6.1.8",
-      "filename": "xnet-1.20-6.1.8.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9753/620/xnet-1.20-6.1.8.jar",
-      "sha1": "60d0b530dd97f953d240898f6ee06f6d9a5d1541",
-      "fileSize": 578009
+      "versionId": "9787518",
+      "versionNumber": "XNet - 1.20-6.1.9",
+      "filename": "xnet-1.20-6.1.9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9787/518/xnet-1.20-6.1.9.jar",
+      "sha1": "f59b5287d0ad67cf019f202ec079bffc5a1316c5",
+      "fileSize": 585400
     }
   },
   "dependents": [],
