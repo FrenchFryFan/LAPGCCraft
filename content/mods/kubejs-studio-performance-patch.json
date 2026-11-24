@@ -2,7 +2,7 @@
   "name": "Kubejs studio performance patch",
   "side": "auto",
   "explicit": true,
-  "disabled": false,
+  "disabled": true,
   "preferred": "curseforge",
   "sources": {
     "curseforge": {

@@ -1,6 +1,6 @@
 # LAPGCcraft
 
-**Minecraft 1.20.1 · Forge 47.4.28**, 95 mods (3 dependencies)
+**Minecraft 1.20.1 · Forge 47.4.28**, 94 mods (3 dependencies)
 
 ## Contents
 
@@ -38,7 +38,7 @@
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `17.1.21`
 - [Ender IO](https://modrinth.com/project/enderio) `6.2.18-beta`
 - [EntityJS](https://modrinth.com/project/entityjs) `0.7.5`
-- [EvilCraft](https://www.curseforge.com/projects/74610) `EvilCraft-1.20.1-1.3.6.jar`
+- [EvilCraft](https://www.curseforge.com/projects/74610) `EvilCraft-1.20.1-1.3.7.jar`
 - [Extended Crafting: Expanded Reforked](https://www.curseforge.com/projects/1531359) `ExtendedCrafting-1.20.1-6.1.9.jar`
 - [EyeJS: KubeJS Addon](https://www.curseforge.com/projects/1624204) `EyeJS-1.20.1-1.0.1.jar`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `6.0.1`
@@ -53,8 +53,7 @@
 - [KubeJS](https://modrinth.com/project/kubejs) `2001.6.5-build.26+forge`
 - [KubeJS Addon - Blood Magic](https://www.curseforge.com/projects/934206) `KubeJS Blood Magic-1.0.2-1.20.1.jar`
 - [KubeJS Powah](https://www.curseforge.com/projects/838378) `kubejspowah-1.2.1.jar`
-- [KubeJS Studio](https://modrinth.com/project/kubejs-studio) `1.3.0+forge-1.20.1`
-- [Kubejs studio performance patch](https://www.curseforge.com/projects/1784213) `kjstudioperf-1.20.1-1.0.0-alpha.9.jar`
+- [KubeJS Studio](https://modrinth.com/project/kubejs-studio) `1.4.0+forge-1.20.1`
 - [KubeJS Thermal](https://modrinth.com/project/kubejs-thermal) `2001.1.10-build.5`
 - [LDLib](https://modrinth.com/project/ldlib) `mc1.20.1-1.0.52.a-forge`
 - [Lodestone](https://modrinth.com/project/lodestonelib) `1.20.1-1.6.4.1`

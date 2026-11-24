@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "CONTRIBUTING.md",
+      "sha1": "83fb4f305a905be14274bdb87634760043225722"
+    },
+    {
       "path": "content/mods/ad-astra-extra.json",
       "sha1": "155396742dbe6c80cdb8c237237adbace94ad797"
     },
@@ -142,7 +146,7 @@
     },
     {
       "path": "content/mods/evilcraft.json",
-      "sha1": "0ec654711b3a3fbac83b0d17f38fb889feedd391"
+      "sha1": "97e2bf6b2129c21160f9d04d5261d6f661bdc8b9"
     },
     {
       "path": "content/mods/extended-crafting-expanded-reforked.json",
@@ -205,12 +209,8 @@
       "sha1": "429a904074cc5db86fc4801868a934f6655ecd3e"
     },
     {
-      "path": "content/mods/kubejs-studio-performance-patch.json",
-      "sha1": "36ae8d3e61f491486526748c0783f4c35868edaa"
-    },
-    {
       "path": "content/mods/kubejs-studio.json",
-      "sha1": "93dcb4c47f4876f6e0156918dbcf9b8514f93942"
+      "sha1": "50541ed25f2acc6c56b386dca07d49b8abd4afba"
     },
     {
       "path": "content/mods/kubejs-thermal.json",
