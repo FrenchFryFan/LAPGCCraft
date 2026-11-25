@@ -141,12 +141,16 @@
       "sha1": "d6e2eacaabbdf34b2b372c13b24aea726db949f9"
     },
     {
+      "path": "content/mods/ender-io-conduit-optimizer.json",
+      "sha1": "a9989d652a1e37459ab9a2298f7aad6c52ede81b"
+    },
+    {
       "path": "content/mods/enderio-evolution.json",
       "sha1": "38583c311959e1ea24a71163833c7cba63302ab8"
     },
     {
       "path": "content/mods/enderio.json",
-      "sha1": "e9328511053e76a97ca7189b1f384f412eac62a1"
+      "sha1": "7745b92871ecf5b7429d9d10f9d92fd4479106e2"
     },
     {
       "path": "content/mods/entityjs.json",

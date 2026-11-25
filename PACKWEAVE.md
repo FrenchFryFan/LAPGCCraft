@@ -1,6 +1,6 @@
 # LAPGCcraft
 
-**Minecraft 1.20.1 · Forge 47.4.28**, 100 mods (5 dependencies)
+**Minecraft 1.20.1 · Forge 47.4.28**, 101 mods (5 dependencies)
 
 ## Contents
 
@@ -38,6 +38,7 @@
 - [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.20.1+forge`
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `17.1.21`
 - [Ender IO](https://modrinth.com/project/enderio) `6.2.18-beta`
+- [Ender IO: Conduit Optimizer](https://www.curseforge.com/projects/1575307) `enderio_conduit_opt-1.0.7-1.20.1.jar`
 - [Ender IO: Evolution](https://www.curseforge.com/projects/1453074) `enderio_evolution-1.2.7-Forge-1.20.1.jar`
 - [EntityJS](https://modrinth.com/project/entityjs) `0.7.5`
 - [EvilCraft](https://www.curseforge.com/projects/74610) `EvilCraft-1.20.1-1.3.7.jar`
