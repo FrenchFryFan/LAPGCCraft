@@ -69,3 +69,5 @@ overrides/kubejs/server_scripts/zz_lapg_audit.js.disabled
 overrides/config/almostunified/debug.json.bak-before-audit
 overrides/config/kubejsstudio.json
 overrides/journeymap/
+overrides/defaultconfigs/ftbchunks/client-config.snbt
+overrides/defaultconfigs/ftblibrary/ftblibrary-client.snbt

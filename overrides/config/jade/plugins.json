@@ -144,6 +144,12 @@
   "ars_nouveau": {
     "mob_jar": true
   },
+  "enderio_evolution": {
+    "capacitor_bank_render": true
+  },
+  "enderio_conduit_opt": {
+    "conduit_info": true
+  },
   "mekanism": {
     "infuse_type": true,
     "gas": true,
