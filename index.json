@@ -38,7 +38,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "7810dc075155388b10061b6a3ec33a2132dc665c"
+      "sha1": "7cdf3d2ddb06364268752e4492693319ac015f3a"
     },
     {
       "path": "content/mods/ars-nouveau.json",
@@ -141,8 +141,12 @@
       "sha1": "d6e2eacaabbdf34b2b372c13b24aea726db949f9"
     },
     {
+      "path": "content/mods/enderio-evolution.json",
+      "sha1": "38583c311959e1ea24a71163833c7cba63302ab8"
+    },
+    {
       "path": "content/mods/enderio.json",
-      "sha1": "6eff9f3b079e6647951adbe072a999b15327ca46"
+      "sha1": "e9328511053e76a97ca7189b1f384f412eac62a1"
     },
     {
       "path": "content/mods/entityjs.json",
@@ -163,6 +167,22 @@
     {
       "path": "content/mods/flux-networks.json",
       "sha1": "2bf97aa9dd1b0749bc39a897e16922397bb26941"
+    },
+    {
+      "path": "content/mods/ftb-backups-2.json",
+      "sha1": "feefa30643ddafe3a8d96a12202a8b41af459b56"
+    },
+    {
+      "path": "content/mods/ftb-chunks-forge.json",
+      "sha1": "c32d0de79f19f806bd14cf55604d027b4d5d3264"
+    },
+    {
+      "path": "content/mods/ftb-library-forge.json",
+      "sha1": "5396e72d5108086d10155293241bbbd44990ef75"
+    },
+    {
+      "path": "content/mods/ftb-teams-forge.json",
+      "sha1": "0fb9d21be064833b64e8b9547268907dc9b70e49"
     },
     {
       "path": "content/mods/geckolib-2.json",
@@ -187,6 +207,10 @@
     {
       "path": "content/mods/integrated-dynamics.json",
       "sha1": "5cd42017634d217c52d62a224c4128a89d7406fe"
+    },
+    {
+      "path": "content/mods/iron-furnaces.json",
+      "sha1": "f045e7f37a17ac175dd389160b58e4a77bc2dd38"
     },
     {
       "path": "content/mods/jade.json",
@@ -313,6 +337,10 @@
       "sha1": "12c43e13d11df96675677501885604be05b0bfad"
     },
     {
+      "path": "content/mods/polylib.json",
+      "sha1": "ce6b93aea920d5a30c312d6cb75389705338b187"
+    },
+    {
       "path": "content/mods/polymorph.json",
       "sha1": "20f33a76cd51afc0cb915e9096452e229741b992"
     },
@@ -398,7 +426,7 @@
     },
     {
       "path": "overrides/config/Mekanism/client.toml",
-      "sha1": "42a0030b43a0e6a36b1517a92e1b855455348719"
+      "sha1": "47920a0870896cd67a5cb3119174d8510e5e534c"
     },
     {
       "path": "overrides/config/Mekanism/common.toml",
@@ -1590,7 +1618,7 @@
     },
     {
       "path": "overrides/config/modernfix-mixins.properties",
-      "sha1": "3e2070a7bb4744c81cd078933c9c745d76fd6ae2"
+      "sha1": "ed98cc676ea9a10c0901c94c6d97dd4df6275c71"
     },
     {
       "path": "overrides/config/modonomicon-client.toml",

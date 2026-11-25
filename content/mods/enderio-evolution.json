@@ -1,0 +1,22 @@
+{
+  "name": "Ender IO: Evolution",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1453074",
+      "slug": "enderio-evolution",
+      "versionId": "9653184",
+      "versionNumber": "enderio_evolution-1.2.7-Forge-1.20.1.jar",
+      "filename": "enderio_evolution-1.2.7-Forge-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9653/184/enderio_evolution-1.2.7-Forge-1.20.1.jar",
+      "sha1": "ab5665c49bb36c1522f74a3161611f6be3d06c91",
+      "fileSize": 855214
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "PolyLib",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "576589",
+      "slug": "polylib",
+      "versionId": "5350440",
+      "versionNumber": "0.3.143 [Forge/NeoForge]",
+      "filename": "polylib-forge-2000.0.3-build.143.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5350/440/polylib-forge-2000.0.3-build.143.jar",
+      "sha1": "bf49919adc9e9109196762ff20030f823790e2db",
+      "fileSize": 1343694
+    }
+  },
+  "dependents": [
+    "622737"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

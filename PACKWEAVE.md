@@ -1,6 +1,6 @@
 # LAPGCcraft
 
-**Minecraft 1.20.1 · Forge 47.4.28**, 95 mods (3 dependencies)
+**Minecraft 1.20.1 · Forge 47.4.28**, 100 mods (5 dependencies)
 
 ## Contents
 
@@ -38,17 +38,22 @@
 - [EMI Ores](https://modrinth.com/project/emi-ores) `1.3+1.20.1+forge`
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `17.1.21`
 - [Ender IO](https://modrinth.com/project/enderio) `6.2.18-beta`
+- [Ender IO: Evolution](https://www.curseforge.com/projects/1453074) `enderio_evolution-1.2.7-Forge-1.20.1.jar`
 - [EntityJS](https://modrinth.com/project/entityjs) `0.7.5`
 - [EvilCraft](https://www.curseforge.com/projects/74610) `EvilCraft-1.20.1-1.3.7.jar`
 - [Extended Crafting: Expanded Reforked](https://www.curseforge.com/projects/1531359) `ExtendedCrafting-1.20.1-6.1.9.jar`
 - [EyeJS: KubeJS Addon](https://www.curseforge.com/projects/1624204) `EyeJS-1.20.1-1.0.1.jar`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `6.0.1`
 - [Flux Networks](https://www.curseforge.com/projects/248020) `Flux-Networks-1.20.1-7.2.1`
+- [FTB Backups 2](https://www.curseforge.com/projects/622737) `1.0.23 [Forge/NeoForge]`
+- [FTB Chunks (NeoForge)](https://www.curseforge.com/projects/314906) `ftb-chunks-forge-2001.3.8.jar`
+- [FTB Library (NeoForge)](https://www.curseforge.com/projects/404465) `ftb-library-forge-2001.2.13.jar`
 - [GregTech CEu Modern](https://modrinth.com/project/gregtechceu-modern) `mc1.20.1-7.5.3`
 - [GuideME](https://modrinth.com/project/guideme) `20.1.15`
 - [Hostile Neural Networks](https://modrinth.com/project/hostile-neural-networks) `5.3.3`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.5.5+1.20.4-forge`
 - [Integrated Dynamics](https://www.curseforge.com/projects/236307) `IntegratedDynamics-1.20.1-1.31.5.jar`
+- [Iron Furnaces](https://www.curseforge.com/projects/237664) `ironfurnaces-1.20.1-4.1.8.jar`
 - [Jade 🔍](https://modrinth.com/project/jade) `11.13.3+forge`
 - [JourneyMap](https://modrinth.com/project/journeymap) `1.20.1-6.0.8+forge`
 - [KubeJS](https://modrinth.com/project/kubejs) `2001.6.5-build.26+forge`

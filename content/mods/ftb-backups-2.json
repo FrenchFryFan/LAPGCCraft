@@ -1,0 +1,22 @@
+{
+  "name": "FTB Backups 2",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "622737",
+      "slug": "ftb-backups-2",
+      "versionId": "4834403",
+      "versionNumber": "1.0.23 [Forge/NeoForge]",
+      "filename": "ftbbackups2-forge-1.20-1.0.23.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar",
+      "sha1": "4b100de40338247a3fbf4d1fd1846257c5338189",
+      "fileSize": 1954591
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

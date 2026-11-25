@@ -68,3 +68,4 @@ overrides/config/kubejsstudio/
 overrides/kubejs/server_scripts/zz_lapg_audit.js.disabled
 overrides/config/almostunified/debug.json.bak-before-audit
 overrides/config/kubejsstudio.json
+overrides/journeymap/

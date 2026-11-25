@@ -1,0 +1,22 @@
+{
+  "name": "Iron Furnaces",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "237664",
+      "slug": "iron-furnaces",
+      "versionId": "7888952",
+      "versionNumber": "ironfurnaces-1.20.1-4.1.8.jar",
+      "filename": "ironfurnaces-1.20.1-4.1.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7888/952/ironfurnaces-1.20.1-4.1.8.jar",
+      "sha1": "55386bfd5746bd8588df5d45f19cc964b666afe5",
+      "fileSize": 612921
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

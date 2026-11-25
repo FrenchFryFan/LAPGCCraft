@@ -1,0 +1,22 @@
+{
+  "name": "FTB Chunks (NeoForge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "314906",
+      "slug": "ftb-chunks-forge",
+      "versionId": "8216874",
+      "versionNumber": "ftb-chunks-forge-2001.3.8.jar",
+      "filename": "ftb-chunks-forge-2001.3.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8216/874/ftb-chunks-forge-2001.3.8.jar",
+      "sha1": "ee2d0cdac6d2ca31f43da30f76dff8c6bae9d687",
+      "fileSize": 1159043
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

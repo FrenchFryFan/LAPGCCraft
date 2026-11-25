@@ -1,0 +1,24 @@
+{
+  "name": "FTB Teams (NeoForge)",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "404468",
+      "slug": "ftb-teams-forge",
+      "versionId": "7499810",
+      "versionNumber": "ftb-teams-forge-2001.3.2.jar",
+      "filename": "ftb-teams-forge-2001.3.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7499/810/ftb-teams-forge-2001.3.2.jar",
+      "sha1": "c49023f5d471aa1ba7fc624d2565fe9e82b7117e",
+      "fileSize": 252579
+    }
+  },
+  "dependents": [
+    "314906"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
