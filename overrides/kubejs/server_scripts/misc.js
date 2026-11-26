@@ -1,3 +1,12 @@
 ServerEvents.recipes(event => {
-    event.recipes.botania.runic_altar("kubejs:pumpkinite_ingot", ["minecraft:pumpkin", "#forge:ingots/bronze", "kubejs:cheesite_wedge"], 10000)
+    event.custom({
+        type: "botania:runic_altar",
+        ingredients: [
+            { item: "minecraft:pumpkin" },
+            { tag: "forge:ingots/bronze" },
+            { item: "kubejs:cheesite_wedge" }
+        ],
+        mana: 10000,
+        output: { item: "kubejs:pumpkinite_ingot" }
+    })
 });

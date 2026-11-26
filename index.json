@@ -3510,7 +3510,7 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/misc.js",
-      "sha1": "bcffceaf40ffb216359f4affefe29cd39ed3685d"
+      "sha1": "01dea566141d8c077edb86aa07c70c0252c4f98f"
     },
     {
       "path": "overrides/kubejs/startup_scripts/example.js",
