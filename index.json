@@ -278,7 +278,7 @@
     },
     {
       "path": "content/mods/mcjtylib.json",
-      "sha1": "2df3ee971707934a04a0b74eded8b2314d74cc3b"
+      "sha1": "ce7064b93edabd02a6dbcdf8aca5f1082f7e12f6"
     },
     {
       "path": "content/mods/mega.json",
@@ -3457,8 +3457,16 @@
       "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766"
     },
     {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/cheesite_wedge.png",
+      "sha1": "f80ca97bbcd3a81b86990a283d118c8a946007be"
+    },
+    {
       "path": "overrides/kubejs/assets/kubejs/textures/item/example_item.png",
       "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/pumpkinite_ingot.png",
+      "sha1": "05ec7f8219fb5b249638c6fd4de4b011a286a386"
     },
     {
       "path": "overrides/kubejs/assets/nuclearcraft/textures/item/fuel/readme.txt",
@@ -3481,6 +3489,10 @@
       "sha1": "9530c6a8d3608ca41418ccb29a01d179d5c06bab"
     },
     {
+      "path": "overrides/kubejs/server_scripts/kubejsstudio/kubejsstudio.js",
+      "sha1": "8337c79d2bd3638fc4449556039886c351a61733"
+    },
+    {
       "path": "overrides/kubejs/server_scripts/kubejsstudio/recipes.js",
       "sha1": "f9bf53e1db3289b469f19c8c4f2deb3413f3119e"
     },
@@ -3497,8 +3509,16 @@
       "sha1": "dd4fc22c194a07b0386e7edb89302f9ac6e6408e"
     },
     {
+      "path": "overrides/kubejs/server_scripts/misc.js",
+      "sha1": "bcffceaf40ffb216359f4affefe29cd39ed3685d"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/example.js",
       "sha1": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/specific_items.js",
+      "sha1": "62b67f37a3a4d1a790bdd9af5ac7b2b0dc24d5a1"
     },
     {
       "path": "overrides/modernfix/structureCacheV1/elementalcraft_altar_medium_53292b78ef.nbt",
